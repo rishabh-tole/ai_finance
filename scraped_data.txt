@@ -1,0 +1,1389 @@
+[Article] https://www.renewableenergyworld.com/energy-business/policy-and-regulation/billions-in-federal-funds-still-inaccessible-says-emergency-motion-filed-in-r-i-federal-court/
+
+Home/Business/Policy & Regulation
+by Nancy Lavin, Rhode Island Current
+Twelve days and two separate federal court orders later, state agencies and their beneficiaries are still not able to access billions of dollars in critical federal grants and aid.
+Which is why 23 Democratic attorneys general suing President Donald Trump and his administration are asking for a federal judge in Rhode Island to intervene. The 21-page motion filed in U.S. District Court for the District of Rhode Island late Friday afternoon asks Chief Judge John McConnell Jr. for emergency, immediate enforcement of his existing order blocking a federal funding freeze.
+McConnell issued the temporary restraining order on Jan. 31, preventing Trump and other federal cabinet heads from blocking access to funds until further notice. 
+But across the country, state governments, including Rhode Island, remain locked out of payment systems and other portals controlling billions of federal funding, the AGs wrote in their latest filing.
+“There has been an ever-changing kaleidoscope of federal financial assistance that has been suspended, deleted, in transit, under review, and more since entry of the Order,” the filing states. “These conditions persist today.”
+The AGs filing continues, “while it is imaginable that a certain amount of machinery would need to be re-tooled in order to undo the breadth of the Federal Funding Freeze, there is no world in which these scattershot outages, which as of this writing impact billions of dollars in federal funding across the Plaintiff States, can constitute compliance with this Court’s Order.”
+In court documents submitted Feb. 3, Daniel Schwei, the U.S. Department of Justice attorney representing the Trump administration, wrote that the administration did not interpret the temporary restraining order to apply to Trump’s executive orders or to federal agencies not named in the lawsuit. Schwei also indicated federal funds allocated through Biden-era programs under the Inflation Reduction Act and the Infrastructure Improvement and Jobs Act were not subject to the court order.
+This has put key environmental, research, health care and infrastructure programs at risk, as the AGs write in their latest request for emergency enforcement. In Rhode Island, the Rhode Island Office of Energy Resources (OER) has been unable to access $125 million in federal grants for various energy efficiency and renewable energy incentives, some of which were frozen starting Jan. 27, according to a supplemental, 78-page document submitted Friday. As of Wednesday, OER has not heard back on its Jan. 28 email regarding the suspending funding for solar incentives, the AGs wrote.
+Robert Beadle, a spokesperson for OER, confirmed the frozen funds in an email Friday evening.
+“OER is working with the Governor’s Office and the Attorney General’s Office to resolve this issue in light of the Temporary Restraining Order,” Beadle said. 
+Meanwhile, Brown University has experienced “near immediate disruptions” to its research projects, including a canceled review of $71 million in National Institutes of Health funding for dementia research, according to court documents.
+“As long as this Administration continues to break the law, we will continue our fight to uphold it,” Rhode Island Attorney General Peter Neronha, who is co-leading the lawsuit, said in a statement Friday. “Let me be as crystal clear as Judge McConnell’s order: we’re not interested in playing these games, especially when it comes to funding programs that Americans rely on to survive and thrive.”
+McConnell has given the DOJ team representing the Trump administration until Sunday to respond, according to court documents.
+In his response filed Sunday, Schwei said the Trump administration has made “good-faith, diligent efforts to comply with the injunction.”
+He acknowledged that 600 federal payment requests remained under review out of 7,000 flagged via the U.S. Department of Health and Human Services (HHS) payment management system. Meanwhile, other agencies, including the Department of Energy, are conducting reviews of all payment requests to ensure funding is being distributed appropriately, he said.
+Schwei added the grant for Brown University’s School of Public Health remains available, even if advisory committee review meetings have been canceled by the National Institutes of Health.
+McConnell has separately scheduled a hearing in federal court in Providence on Feb. 21 to hear arguments on the AGs’ request for a longer term and more broad-sweeping block on a funding freeze.
+On Monday, a federal judge in D.C. issued a temporary restraining order blocking the funding freeze in response to a separate lawsuit filed by nonprofit and business groups.
+This story has been updated to include Sunday’s DOJ response.
+Rhode Island Current is part of States Newsroom, a nonprofit news network supported by grants and a coalition of donors as a 501c(3) public charity. Rhode Island Current maintains editorial independence. Contact Editor Janine L. Weisman for questions: [email protected].
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/electric-vehicle/californias-surge-in-ev-sales-has-stalled-so-what-happens-to-its-landmark-mandate/
+
+Home/Electric Vehicles
+By Alejandro Lazo, CalMatters | This story was originally published by CalMatters. Sign up for their newsletters.
+California’s push to electrify its cars is facing a potentially serious problem: People aren’t buying electric cars fast enough. 
+After three straight years of strong growth, sales have stabilized in California, raising questions about whether the state will fail to meet its groundbreaking mandate banning sales of gas-powered vehicles.
+About a quarter — 25.3% — of all new cars registered in California in 2024 were zero emissions, just slightly more than 25% in 2023, according to new California Energy Commission data. The flat sales follow several years of rapid growth — in 2020, only one in 13 cars sold was zero-emissions. Their share of California’s market is now three times larger than four years ago.
+But the slowed pace of growth in the market puts the state’s climate and air pollution goals at risk. Under California’s mandate, approved in 2022, 35% of new 2026 car models sold by automakers must be zero emissions. That leaves considerable ground to make up as some 2026 models begin rolling out later this year.
+The requirement ramps up to 68% for 2030 models, and in 2035, California’s rule bans all sales of gasoline-powered cars.
+David Simpson, who owns three car dealerships in Orange County, said he is not seeing increased demand for electric cars. While the initial rollout of some models, such as the GMC Hummer EV, did well at first, the demand did not continue. Sales of the Chevrolet Equinox and Blazer EVs do alright, but aren’t strong, either, he said.
+“The sales are declining,” Simpson said. “We’ve filled that gap of people who want those cars — and now they have them — and we’re not seeing a big, huge demand. I don’t see households going 100% EV.”
+Dave Clegern, a spokesperson for the California Air Resources Board, which oversees the electric car mandates, said in an email that while sales of zero-emission vehicles in California are “less dramatic than in years past,” the flat sales occurred in the context of an overall plateauing of car sales last year. 
+Although the rules limit what automakers can sell, Californians are not required to buy electric cars. That means if consumer demand doesn’t increase, it could be a major black eye for Gov. Gavin Newsom, who has made electric cars a cornerstone of his agenda to fight climate change and clean the air. A spokesman for Newsom declined to comment. 
+The state mandate, however, has some flexibility, Clegern said. First of all, it’s a multi-year formula: Each manufacturer’s sales of 2026 zero-emission vehicles must be 35% of its total sales averaged for model years 2022 through 2024. 
+Manufacturers also can buy credits from automakers that have exceeded the target — companies that only sell electric models, such as Tesla or Rivian. To enforce compliance with California’s sales requirements, state officials could impose steep penalties of $20,000 per vehicle on manufacturers that fall short of quotas.
+“Manufacturers may still be in compliance even if they do not achieve these specific sales volumes,” Clegern said.
+Brian Maas, president of the California New Car Dealers Association, said  automakers could seek to avoid the fines by reducing the number of gas-powered cars they send to California dealers. He said that could leave fewer options for buyers, drive up prices and push some consumers to Nevada or Arizona to find the car they want, while others will hold on to their older, more polluting vehicles. 
+“We’re just not going to make the mandate as presently drafted” so automakers will have to take action, Maas said. “The most rational is to constrain inventory.”
+The auto industry group Alliance for Automotive Innovation has been raising these concerns since at least December, when it published a memo entitled, “It’s gonna take a miracle: California and states with EV sales requirements.” The group warns the mandate could depress auto sales in California — as well as in other states that adopt its rules. 
+Last month, John Bozzella, the group’s chief executive, called California’s rules “by any measure not achievable” after President Donald Trump signed an executive order repealing federal rules promoting electric vehicles. 
+“There’s a saying in the auto business: You can’t get ahead of the customer,” Bozzella said.
+The outgoing Biden administration’s U.S. Environmental Protection Agency granted California a waiver in December that allows the state to enforce its requirements phasing out new gas-powered cars. Many experts believe the Trump administration is likely to challenge the waiver through the courts.
+Experts also anticipate that Trump could eliminate the $7,500 federal tax credit for zero-emission vehicle purchases, which would increase the cost of buying some electric cars. Newsom vowed last year to continue offering the incentive through state funding, although that promise came before Los Angeles faced devastating wildfires and the state released its fragile budget earlier this year.
+Californians have purchased more than 2 million electric cars, leading the nation. The number has doubled in about two years.
+But electric vehicle sales, which make up the majority of zero emission cars, grew by only 1.1% in 2024, with 378,910 sold compared to 374,668 in 2023. Plug-in hybrids, once considered a potential alternative to a purely electric model, remained relatively stable. And sales of hydrogen-powered cars all but collapsed last year, with sales plummeting to a meager 600 in 2024 from 3,119 in 2023.
+The slower growth comes amid overall market sluggishness, with all auto sales in California dipping slightly last year to 1,752,030.
+Loren McDonald, chief analyst for the charging app Paren, said a major contributor is a shift in consumer demographics.
+The state’s market has moved beyond early electric car adopters — affluent, environmentally motivated buyers willing to overlook challenges like limited charging infrastructure and higher costs — and into the mainstream.
+He said these new buyers, often from middle-income households or who live in apartment buildings without easy access to charging, are far less forgiving when it comes to electric cars. Concerns about range, broken chargers and upfront costs are deal breakers.
+Tesla’s market dominance has exacerbated the issue. Many left-leaning California consumers, who were once loyal to Tesla, appear to have distanced themselves because of CEO Elon Musk’s controversial public persona and alliance with Trump.
+As Tesla sales have softened, dropping 11% in California last year, the decline has disproportionately affected overall EV registration data in California because of the company’s significant market share, McDonald said. 
+Affordability remains a crucial hurdle, though McDonald sees signs of improvement. Automakers have ramped up production, leading to competitive pricing and aggressive lease deals—many under $400 per month.
+But mainstream consumers are largely unaware that electric vehicles offer long-term savings in fuel and maintenance, McDonald said, adding that better education is needed to convince consumers to take the leap, especially as electric car prices increasingly approach parity with gas-powered vehicles.
+McDonald remains optimistic about 2025. The market will benefit from new electric models priced under $50,000 and technological advancements, such as faster charging and vehicle-to-home power capabilities. 
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/energy-business/energy-finance/octopus-energy-launches-renewable-investment-platform-in-uk/
+
+Home/Business/Finance
+Octopus Energy has launched ‘the Collective’ to enable consumers to invest in and gain returns from renewable energy projects.
+Citing a recent YouGov survey finding that one in three people would want to invest in green energy, Octopus Energy is offering ‘the Collective’ as its response to meet this demand.
+The first of its kind platform in the UK, and regulated by the Financial Conduct Authority, the financial regulator, opens the way for individuals to buy a share in green energy projects with a minimum investment of £25 ($31).
+Initially the offer is open to two wind turbines in Yorkshire and Wales, with plans for several more renewables projects across the country.
+These turbines are also part of the Octopus’ ‘Fan Club’ scheme through which local customers receive an automatic discount at the times their wind facility is spinning and generating electricity.
+“Moving to renewable energy represents one of the biggest investment opportunities of our generation – and people can play a powerful role in driving it,” says Zoisa North-Bond, CEO of Octopus Energy Collective.
+“We’re at the start of a people-powered renewables revolution – and ‘the Collective’ platform is bringing green energy ownership to the many, not the few. It’s time for more people to have the chance to take a stake in their clean energy future.”
+The scheme is free to join and without any fees so that any returns go to the investors, where they are subject to those individuals’ tax circumstances.
+As an opening offer for this new investment type potentially attracting new investors, Octopus Energy is aiming these first two wind turbines, which the company has owned since 2021, to provide a 6% annual return over a three year investment term.
+This target return has been calculated by factoring in historical data on the wind turbines’ financial and operational performance.
+To ensure the return, Octopus Energy is committing funds to underwrite the initial investments made.
+Collective members who invest £1,000 would own approximately 0.05% of a turbine and with a 6% annual return with quarterly dividends, could receive £180 over the three years.
+The returns, as well as the clean energy generated from the project, will be able to be monitored by members in their Collective account.
+Octopus Energy customers also have the option of linking potential dividends to their energy accounts to reduce their bills.
+At the end of the three years, the project aims to buy back the shares at the original price paid, with the Collective investors able to withdraw this or reinvest it in other clean energy projects on the platform.
+Originally published in Smart Energy International.
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/hydro-power/iberdrolas-alto-tamega-hydroelectric-plant-recognized-by-portuguese-water-resources-association/
+
+Home/Hydropower
+Iberdrola was awarded the Portuguese Water Resources Association (APRH) Hydraulic Projects prize for the presentation of the Tâmega electricity generation system, which won first place in the Dams and Hydropower Production category. 
+With an installed capacity of 1,158 MW and up to 40 GWh of energy storage, the Tâmega electricity generating system is the largest investment in renewable energy in Portugal in the last three decades. The Alto Tâmega Power Station is located at the foot of Alto Tâmega Dam, a large double-curved vault dam, 105 m high, with 220,000 m3 of concrete and a crown length of 335 m, which has become the fifth highest dam in Portugal.
+The APRH Award for Hydraulic Projects aims to recognize and reward the originality and overall quality of single or multi-purpose hydraulic infrastructures for the development or control of water resources and the management or rehabilitation of aquatic environments.
+“The Gouvães pumping station, which is part of Alto Tâmega, is a plant that offers a lot of flexibility, and can go from pumping 880 MW to generating 880 MW in a few minutes, which is essential to ensure reliable energy supply in a decarbonized electricity system, where the wind and photovoltaic contribution can fluctuate by several thousand MW in a few hours,” said Vítor Afonso, Alto Tâmega’s operations manager. 
+The award will be presented by the Portuguese Water Resources Association during the 17th Water Congress, which will take place from April 8 – 11, 2025 in Lagos, Algarve. Prior to the official award ceremony, the APRH will visit the plant to install a plaque commemorating the Hydraulic Projects award. 
+The Tâmega hydroelectric power plant is one of the largest hydroelectric projects in Europe in the last 25 years. With a total investment of more than €1.5 billion, it consists of three power plants: the Alto Tâmega hydroelectric power plant, with an installed capacity of 160 MW, the Gouvães pumped storage power plant (880 MW) and the Daivões power plant (118 MW). The latter two have been in operation since 2022.
+The Gouvães reversible hydropower plant can store up to 20 GWh of renewable energy at peak production times and use it later when demand is higher and intermittent energy sources such as solar and wind cannot be relied on.
+The three plants have an installed capacity of 1,158 MW and an annual production capacity of up to 1,766 GWh, enough to meet the energy needs of neighboring municipalities, as well as the cities of Braga and Guimarães (440,000 households). In addition, this renewable infrastructure has a storage capacity of up to 40 million kWh, equivalent to the energy consumed by 11 million people over 24 hours in their homes.
+Portugal gets more than 60% of its electricity from renewable sources and has the objective of reaching 85% by 2030. With the growth of renewables, the output of wind and solar power stations increasingly exceeds the system’s needs. Because it cannot be consumed or managed by the system, it would be lost if it weren’t stored by pumping water, particularly in the Gouvães reservoir.
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/energy-business/policy-and-regulation/22-states-sue-new-york-alleging-environmental-fund-is-unconstitutional/
+
+Home/Business/Policy & Regulation
+ALBANY, N.Y. (AP) — Twenty-two states sued New York on Thursday, contending that a new law forcing a small group of major energy producers to pay $75 billion into a fund to cover climate change damage is unconstitutional.
+The lawsuit, filed in Albany, lists state Attorney General Letitia James and other officials as defendants.
+According to a statement, West Virginia Attorney General JB McCuskey led the coalition of states against New York’s Climate Change Superfund Act, which requires payments for damage allegedly done from 2000 to 2018.
+The law requires major fossil fuel companies to pay into the fund over the next quarter-century based on their past gas emissions.
+“This lawsuit is to ensure that these misguided policies, being forced from one state onto the entire nation, will not lead America into the doldrums of an energy crisis, allowing China, India and Russia to overtake our energy independence,” McCuskey said in a release.
+“This law is unconstitutional, and I am proud to lead this coalition of attorneys general and brave private energy companies and industry groups in our fight to protect against this overreach,” McCuskey added. “If we allow New York to get away with this, it will only be a matter of time before other states follow suit – wrecking our nation’s power grid.”
+“We look forward to defending this landmark legislation in court and defeating Big Oil once again,” Paul DeMichele, a spokesperson for Democratic New York Gov. Kathy Hochul’s office, said in an email.
+The lawsuit accuses New York state of trying to force energy producers and consumers in other states “to subsidize certain New York-based ‘infrastructure’ projects, such as a new sewer system in New York City.”
+It called the law “an ugly example of the chaos that can result when States overreach.”
+According to the lawsuit, New York wants to blame the small group of energy producers for global greenhouse gases that entered the atmosphere from many sources.
+“Yet coal, oil, and natural gas were helping New York during that time. They helped keep the lights on in Albany, manufacture the steel that supported New York City’s iconic skyscrapers, and fuel the industry that keeps New York ports humming,” the lawsuit said.
+Besides West Virginia, the states joining the lawsuit are Alabama, Arkansas, Georgia, Idaho, Iowa, Kansas, Kentucky, Louisiana, Mississippi, Missouri, Montana, Nebraska, North Dakota, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, Utah and Wyoming.
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/wave-power-is-coming-to-another-continent-developer-teases-pilot-project-with-a-fortune-500-indian-company/
+
+Home/Hydropower/Tidal & Wave Energy
+Eco Wave Power, a developer of onshore wave energy technology, teased that it will sign its first collaboration agreement with a Fortune 500 Indian company for a pilot project at India Energy Week 2025, taking place from February 11-14, 2025, in New Delhi, India.
+The pilot project with the currently unnamed company is planned for Maharashtra, India.
+India Energy Week, held under the patronage of the Ministry of Petroleum and Natural Gas of India, is the country’s flagship energy event, bringing together global industry leaders, policymakers, and innovators to discuss the future of energy. The event has previously been inaugurated by the Honorable Prime Minister Narendra Modi.
+Eco Wave Power will present its wave energy generation model at the exhibition, allowing visitors to experience firsthand how the company’s patented onshore wave energy technology converts ocean waves into electricity. The model has been specially shipped to New Delhi, India for this event.
+“With a coastline of 7,516 km and over 250 million people living along the shore, India has a unique opportunity to place wave energy at the forefront of its renewable energy strategy,” said Inna Braverman, founder and CEO of Eco Wave Power. “We are excited to showcase our technology at India Energy Week and to take this historic first step toward implementing Eco Wave Power’s technology in India.”
+Alongside India Energy Week, Inna Braverman will also speak at the 9th Annual Global Business Summit (GBS), scheduled for February 14-15, 2025, in New Delhi, India. Organized by The Times Group, India’s largest media conglomerate, GBS is one of Asia’s premier business forums, bringing together global leaders, policymakers, and visionaries to shape new narratives in business, policy, and sustainability.
+Past editions of GBS have hosted prominent figures such as Bill Gates (Microsoft), Ray Dalio (Investor), Dara Khosrowshahi (Uber), Steve Wozniak (Apple), and India’s  Prime Minister, the Honorable Narendra Modi. The 2025 theme, “Evolve, Emerge, Expand”, will focus on fostering meaningful dialogue in the fields of renewable energy, business, and global economic growth.
+Eco Wave Power is also advancing additional projects globally, including upcoming initiatives in Taiwan and the Port of Los Angeles. Moreover, the company said it plans to announce new projects in additional countries, further expanding its footprint in the wave energy sector and reinforcing its position as a leader in renewable energy innovation.
+GO DEEPER: Riding the wave: A Chernobyl survivor is going global with her simple tech that harnesses the motion of the ocean
+In November 2024, Eco Wave Power released its Q3 2024 results, highlighting a power station sale in Taiwan, a milestone in an Israel-based project, a share buyback, and more. In the first nine months of 2024, Eco Wave Power said it achieved several milestones, in addition to reducing expenses from the second quarter to the third quarter of 2024 by 10%.
+In Taiwan, Eco Wave Power signed a first wave energy project sale agreement with I-Ke International Ocean Energy, a subsidiary of Lian Tat Company, a maritime engineering company, to bring wave energy technology to Taiwan. Under the agreement, I-Ke will fully finance a 100KW pilot wave energy project by purchasing a turnkey conversion unit from Eco Wave Power, which includes hydraulic, electric, and automated control components. I-Ke will oversee the project’s local components, including the production of floaters, hydraulic cylinders, and all other components of the technology, which are located on the seaside of the marine structure. Additionally, I-Ke is responsible for securing permits, land use approvals, and other necessary licenses.
+In Israel, in early September 2024, an advanced automation system was implemented at the company’s EWP-EDF One Project at the Port of Jaffa. The company said this new system enables power generation from waves as low as 0.4m, improves operational data accuracy, and enhances system safety. In the third quarter of 2024, EDF-EWP One concluded its first operations and maintenance year with operating expenses (OPEX) amounting to only 3.66% of the CAPEX, successfully meeting the target of less than 4%, Eco Wave Power said. The EWP-EDF One Project at the Port of Jaffa has been supplying wave-generated energy to the Israeli national electrical grid since its connection in late 2023.
+In Los Angeles, California, Eco Wave Power recently received the final Nationwide federal Permit (NWP) from the U.S. Army Corps of Engineers for its wave energy project at AltaSea’s premises in the Port of Los Angeles. This wave energy project is set to become the first onshore wave energy installation in the United States. The permit, issued under NWP 52 for Water-Based Renewable Energy Generation Pilot Projects, authorizes Eco Wave Power to install eight wave energy floaters on the piles of an existing concrete wharf structure on the east side of Municipal Pier One. The system will also include an energy conversion unit, comprised of two 20-foot shipping containers, which will be placed on the wharf deck and connected to the floaters. With the conversion unit already shipped to the site, Eco Wave Power plans to complete installation by the end of Q1 2025.
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/energy-business/policy-and-regulation/new-doe-boss-places-spotlight-on-baseload-generation/
+
+Home/Business/Policy & Regulation
+A video of newly confirmed U.S. Secretary of Energy (DOE) Chris Wright posted to the agency’s Instagram account this week shows the fossil fuel executive arriving for his first day of work, greeted warmly by DOE employees.
+At the end of the video, the DOE’s emblem flashes, along with the line, “Unleashing American ENERGY DOMINANCE”.
+The slogan is highly representative of President Donald Trump’s energy agenda and was mirrored in Wright’s first signed secretarial order, where the former Liberty Energy CEO described a “consequential moment in American history.”
+“To compete globally, we must expand energy production and reduce energy costs for American families and businesses,” reads the Feb. 5 order. “America must lead the world in innovation and technology breakthroughs, which includes accelerating the work of the Department’s National Laboratories.”
+A post shared by U.S. Department of Energy (@energy)
+Wright is placing a particular emphasis on baseload and dispatchable generation. He said DOE’s R&D efforts would prioritize fossil fuels, advanced nuclear, geothermal and hydropower.
+He said the department must prioritize technological breakthroughs, such as nuclear fusion, high-performance computing, quantum computing and AI, to maintain America’s global competitiveness.
+The order underscores the need for American leadership in the global artificial intelligence race and the expected electricity needs projected by AI. Various projections expect U.S. load growth driven by AI data centers to at least double by 2030.
+To that end, Wright said the U.S. must leverage its abundant oil and gas resources, a reflection of President Trump’s “drill baby drill” mantra.
+On January 20, DOE resumed consideration of pending applications to export American liquefied natural gas (LNG) to countries without a free trade agreement (FTA) with the U.S. in accordance with the Natural Gas Act.
+In following the President’s Executive Order, “Declaring a National Energy Emergency,” Wright said the department would work to identify and exercise all lawful authorities to strengthen the nation’s transmission system.
+“This is an imperative as we consider current and anticipated load growth on our nation’s electric utilities,” said Wright.
+In accordance with Trump’s order, Wright said DOE would also prioritize more efficient permitting to speed up energy infrastructure and remove barriers to progress, “including federal policies that make it too easy to stop projects and far too difficult to complete projects.”
+While the previous administration was supportive of nuclear power, Wright said, “the long-awaited American nuclear renaissance must launch during President Trump’s administration.”
+He said DOE would work to enable the rapid deployment and export of next-generation nuclear reactors.
+In a letter posted by the American Nuclear Society (AWS), the organization’s CEO congratulated Wright, but noted the DOE leader would spend more time than he thinks preparing nuclear budgets, adding “Don’t let the bean counters steal from you!”
+“America was once the dominant supplier of civil nuclear energy technologies to the world, but we have allowed our supply chain to atrophy,” said AWS CEO Craig Piercy. “Today, China is running circles around us in new builds.”
+Piercy said restoring U.S. commercial nuclear capabilities would be a long, hard, expensive road, but worth it, “for jobs, economic growth and national security.”
+Wright, in his secretarial order, took a swipe at net-zero policies, saying they raise energy costs for Americans, threaten reliability and undermine energy and national security. 
+“[Net-zero policies] have also achieved precious little in reducing global greenhouse gas emissions,” said Wright. “The fact is that energy matters, and we need more of it, not less.”
+Wright also announced DOE senior leadership appointments on Feb. 6. The appointees will lead various departments, including infrastructure, public affairs, clean energy, and fossil energy.
+Key senior staff appointments include:
+Office of the SecretaryAlexander Fitzsimmons, Chief of StaffAudrey Barrios, Advisor to the SecretaryMike Kopp, Senior Advisor to the SecretaryConner Prochaska, Senior AdvisorTheodore Garrish, Senior AdvisorJohn LaValle, White House LiaisonSamuel Fodale, Deputy White House Liaison
+Office of the Under Secretary for InfrastructureSteven Winberg, Acting Secretary
+Office of Public AffairsAndrea Woods, Deputy DirectorBen Dietderich, Press Secretary and Chief Spokesperson
+Office of ManagementAshley Hebert, Director, Scheduling and AdvanceIsabelle Lamanna, Director of Scheduling
+Office of the Chief Financial OfficerJoshua Jones, Senior Advisor
+Office of Clean Energy DemonstrationsCurt Coccodrilli, Senior AdvisorCathleen Tripodi, Executive Director
+Office of ScienceChristian Newton, Chief of Staff
+Office of Small and Disadvantaged Business UtilizationCharles Smith, Director
+Loan Programs OfficeJohn Sneed, Director
+Grid Deployment OfficeJoseph Alexander, Chief of StaffChristina Francone, Senior Advisor
+Assistant Secretary for Congressional and Intergovernmental AffairsShawn Affolter, Principal Deputy Assistant Secretary
+Assistant Secretary for Fossil Energy and Carbon ManagementTala Goudarzi, Principal Deputy Assistant Secretary Kevin Tatulyan, Chief of Staff
+Assistant Secretary for Energy Efficiency and Renewable EnergyLouis Hrkman, Principal Deputy Assistant Secretary 
+Assistant Secretary for ElectricityCatherine Jereza, Senior Advisor
+Assistant Secretary for Environmental ManagementRoger Jarrell, Senior Advisor
+Assistant Secretary for International AffairsWilliam Joyce, Principal Deputy Assistant SecretaryAndrew Rapp, Senior Advisor
+State And Community Energy ProgramsEric Mahroum, Director
+Originally published in Factor This Power Engineering.
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/energy-business/policy-and-regulation/forget-saving-the-planet-clean-energy-interests-sharpen-a-different-message-money-and-jobs/
+
+Home/Business/Policy & Regulation
+By SETH BORENSTEIN and ALEXA ST. JOHN Associated Press
+WASHINGTON (AP) — Saving the planet is so 2024. Clean energy leaders across the globe are now tailoring their messages to emphasize the greener side of green: wealth-building. It’s an idea that sells far better in the new world of nationalism and tycoon leaders.
+Messaging from the U.S. renewable energy industry and the United Nations on climate change has typically focused on the urgent need to cut greenhouse gas emissions for the sake of environmental and human health. To bolster the argument, they cite record-shattering heat around the world, the frequent climate disasters costing billions of dollars and the human toll of it all.
+But a sharper emphasis on profit potential has become evident as President Donald Trump stormed into office with a flurry of rollbacks to clean energy initiatives and an emphatic declaration of plans to “unleash” oil, gas and mining. In a lobbying blitz in Washington this week, solar, wind, hydropower and other clean-energy interests touted their role in a “robust American energy and manufacturing economy” and sported lapel pins that said “American energy dominance” — a favorite Trump phrase.
+Meanwhile, in a major policy speech Thursday in Brazil, the U.N.’s top climate official played up the $2 trillion flowing into clean-energy projects and recalled a friend telling him that appealing to people’s “better angels” only goes so far.
+That friend, according to U.N. Climate Executive Secretary Simon Stiell, added: “In the great horserace of life … ‘always back self-interest … what’s in it for me.’ ”
+It’s not that clean energy backers haven’t made the case before. But a different landscape, especially in the U.S., stands to make it more potent.
+“It’s a very winning message for outreach to conservatives because it’s really true,” said former U.S. Rep. Bob Inglis, a South Carolina Republican who founded the conservative climate group RepublicEN.org. “If we play our cards right and lead the world to this, we can create a lot of wealth, create a lot of jobs here in America.”
+Inglis pointed to Elon Musk’s empire-building on electric cars, solar panels and batteries.
+“When right-of-center people hear, ’you know, you can you make a profit at this’ then it makes sense. Otherwise, it’s like, why are people giving stuff away?” Inglis said.
+Jobs especially have long been a big selling point for solar and wind energy and electric cars, but there’s a push to not think of self-interest as a dirty word — and instead to harness it, United Nations officials said. When Stiell mentioned the $2 trillion in his speech for clean energy, he called it “unstoppable because of the colossal scale of economic opportunity it presents.”
+Princeton University climate scientist Michael Oppenheimer, who is also a professor of international affairs, said climate change is such a difficult problem, “if some people feel the need to cater to narrower self-interests which can be bundled into a solution to the problem, why not?”
+In letters and at more than 100 congressional meetings this week, industry leaders from the Solar Energy Industries Association, Oceantic Network and other organizations appealed to keep crucial tax incentives in place so their projects can be globally competitive.
+The appeal targets lawmakers who might dismiss climate change but be open to an economic rationale, said Jessie Stolark, executive director of the Carbon Capture Coalition, which spearheaded a letter.
+“In the past administration, obviously, we emphasized the common interest around climate mitigation,” Stolark said. “The messaging with this current administration and with the Republicans is shifting more to that energy piece, the economic piece, the jobs piece.
+“I think you want to meet an audience where they are, what’s important to them, what’s going to drive the conversation forward.”
+Liz Beardsley, senior policy counsel at the U.S. Green Building Council that was part of the sweeping lobbying effort, said the economy has always been a core component of its messages, and that “doing good is also good for business.”
+To Lisa Sachs, director of the Columbia Center on Sustainable Investment, messaging that climate efforts were strictly for the planet was actually disingenuous.
+“The honesty and coherence of the business and financial sectors in making the economic case for the transition is refreshing, at least, after years of doublespeak, greenwashing and confusion,” Sachs said. “It’s not a perfect strategy from a climate or social perspective, as the private sector cannot on its own fully decarbonize the economy … But under this administration, it’s probably our best bet for progress.”
+President Trump may not be reachable, but his Energy and Interior secretaries are and they have power, said Frank Maisano, a longtime Washington spokesman for energy interests from oil and gas to wind and batteries.
+It’s time for a change, said Joanna Depledge, a climate historian at Cambridge University in England: “Banging on about the catastrophic climate crisis is obviously doing no good at all.”
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/power-grid/congress-urged-to-reform-tva-to-improve-transparency-decision-making/
+
+Home/Power Grid
+by Liam Niemeyer, Kentucky Lantern
+Congress should reform the Tennessee Valley Authority’s governance and energy planning as the federally-owned electric utility faces growing demands for power, a renewable energy organization says in a report released Thursday.
+Jonathan Geldof, a senior manager with the American Council on Renewable Energy who authored the report, noted in a Thursday presentation the TVA is unlike other utilities. The TVA is a federal corporation overseen by a board of directors appointed by the president and confirmed by the U.S. Senate. That’s in contrast to utilities in other states that must go before a state utility commission to seek approval for new power generation or have a review of future power plans.
+Like other utilities, the TVA is facing a growing demand for electricity driven by data centers, new battery manufacturing and consumer electrification. The utility, which serves more than 9 million people across seven states, including Kentucky, earlier in January set a new power demand record of more than 35,000 megawatts amid frigid air sweeping across the South.
+The utility has touted spending hundreds of millions of dollars on its power plants to enhance their reliability and resiliency in fiscal year 2024, an investment following rolling blackouts the utility had to impose in 2022 during a winter storm due to failures of its fossil fuel-fired power plants. The utility had to borrow a portion of its power from neighboring electric grids to meet the record power demand in January and also asked customers to voluntarily reduce power.
+Geldof said that growing power demand is coming at a time when the utility may need to ask Congress for an increase in its ability to borrow funds.
+“If they’re going to raise the borrowing authority, that should be coupled with some requirements to make TVA work better for customers and for project developers,” Geldof said. “Our point here isn’t to bash TVA but to point out ways that their processes can improve and make it easier to bring cheap American-made power into the valley.”
+The 33-page report highlights a number of reforms that could be enacted by Congress to either provide more support for the TVA boards, bring the TVA under federal oversight for transmission and change the utility’s process for drafting an important planning document known as an integrated resource plan or IRP.
+TVA spokesperson Scott Fiedler in an emailed statement said the utility wasn’t asked to provide data or input for the report and that the utility was “conducting a transparent, robust IRP process using best practices in the industry, including the participation by the public.” Fiedler said a finalized IRP from the utility would be made available in the spring.
+A panel discussing the report — consisting of an executive with Nashville-based solar developer Silicon Ranch and two other representatives from trade and advocacy groups for renewable energy — honed in on report recommendations for making changes in how the TVA plans future electricity transmission. It’s a planning process that, according to the report, has historically “ lacked transparency, with no meaningful stakeholder participation.”
+Myra Sinnott, a vice president of interconnection and policy for Silicon Ranch, said the result of having a “closed doors” process in planning future electricity generation and transmission is that it “leaves a lot of folks out of the room that are trying to provide feedback on, you know, the future resources that will impact the electric bills, the air and water quality all around the Tennessee Valley.”
+The report says Congress should require TVA to consider the full range of costs and benefits when planning transmission and generation — not just whether an investment provides “adequate and reliable service.”
+Geldoff said  transmission planning that considers multiple factors can enhance reliability of the electricity grid as solar and other renewable energy projects come online and send power to the grid.
+The TVA should also be put under the jurisdiction of the Federal Energy Regulatory Commission, the report recommends, to ensure compliance with a federal overhaul of transmission planning. Also, TVA should consider more transmission among regional electricity grids to avert rolling blackouts, the report says.
+“There’s going to need to be a lot more inter-regional transmission to prevent blackouts in extreme weather and to meet projected load growth,” Geldof said.
+Additionally, the report recommends Congress require the TVA to have independent staff, or potentially hire a consultant, to assist the TVA’s governing board in its decision-making and utility’s operations.
+Simon Mahan, the executive director of the Southern Renewable Energy Association, said the TVA board, made up of part-time positions, has no independent third party to check the information provided to them by TVA staff. By contrast, utilities under state regulation are subject to expert scrutiny and questioning by utility commission staff.
+“Those state regulatory bodies often have not only staff and expertise but also rules and regulations that allow for intervening parties like ours to come in to provide additional feedback and information at no cost to the regulator themselves,” Mahan said. “It’s not that we’re criticizing the board for making bad decisions, it’s just that we are not given enough information to know, ‘Is this truly the best decision at this right time?’”
+When asked about the impact the Trump administration could have on energy planning, one renewable energy advocate pointed to a potential risk the TVA could face with “increasing its reliance” on natural gas. The TVA has proposed a significant investment in building new natural gas-fired power plants to replace its coal-fired power plants at a time when increasing natural gas exports abroad could strain the country’s supply of the fossil fuel.
+“The country is increasing exports of gas that will increase the price of gas, and that will hit TVA customers really, really hard,” said Maggie Shober, research director for the Southern Alliance for Clean Energy.
+Kentucky Lantern is part of States Newsroom, a nonprofit news network supported by grants and a coalition of donors as a 501c(3) public charity. Kentucky Lantern maintains editorial independence. Contact Editor Jamie Lucke for questions: [email protected].
+
+================================================================================
+
+[Article] https://www.renewableenergyworld.com/podcasts/renewables-permitting-has-been-paralyzed-by-trump-this-week-in-cleantech/
+
+Home/Podcasts
+This Week in Cleantech is a weekly podcast covering the most impactful stories in cleantech and climate in 15 minutes or less.
+This week’s episode features Matthew Zeitlin from Heatmap News, who wrote about how huge load growth in Georgia, partially from its green manufacturing boom, is keeping coal plants open.
+This week’s “Cleantecher of the Week” is Liz Burdock, CEO of Oceantic Network. Liz was open about the tough road ahead for offshore wind, but reminds us that despite the obstacles, we must stay united and keep fighting for our future as a community. Congratulations, Liz!
+According to a memo issued by the American Clean Power Association, Trump’s Day One executive order freezing final decisions on renewable projects on federal lands for 60 days has also halted pre-decisional work from the Army Corps of Engineers, which oversees wetlands and species protection.
+This Army Corps of Engineers determines whether certain areas are protected from development under the Clean Water Act, but now the agency is getting harder to reach — they won’t say whether federally protected wetlands are located at construction sites. Developers must receive this information to avoid legal problems down the road, so this will be a major roadblock in the permitting process.
+About 15 years ago, PG&E agreed to buy power from the concentrated solar power plant Ivanpah in the desert near the Nevada border, and federal officials provided $1.6 billion in loan guarantees. 
+This type of solar power uses sunlight reflected off mirrors to heat fluid in giant towers and generate steam. However, the power from this project ended up being much more expensive than expected due to costly setbacks and underproduction and was a threat to the birds that flew above it, which is why PG&E will stop buying electricity from it.
+SoftBank Group Corp., OpenAI, and Oracle Corp. formed a $100 billion venture to fund AI infrastructure, called Stargate. This venture is backed by Trump and “sources familiar with the matter” told Bloomberg that it will partly depend on clean power sources like solar and batteries. 
+AI’s growth will demand more U.S. electricity, from natural gas to solar and batteries. Big Tech has often turned to renewables, drawn by its low cost and ability to boost its positive public image.
+Big Tech is seeking direct connections to power plants to avoid expensive grid upgrades, which could result in them taking a significant portion of available power, and leaving less for regular consumers.
+This issue has led to delays and complications for utilities. For example, the Federal Energy Regulatory Commission, or FERC, recently rejected a proposal for Amazon Web Services to build a data center near the Susquehanna nuclear plant in Pennsylvania. The plant was intended to supply 960 MW—about 40% of its capacity—to the data center, which would have been enough to power half a million homes. It’s not clear whether FERC will take up this matter again, but their decision sets a precedent for other deals down the road.
+Georgia’s green manufacturing boom, fueled largely by the Inflation Reduction Act, is driving massive electricity demand, with Georgia Power forecasting 8,200 MW of load growth by 2030, exceeding previous projections by 2,000 MW. To meet this demand, Georgia Power is extending the life of coal plants previously set for retirement, seeking approval to keep them running through at least 2034, while also adding new gas and oil capacity.
+
+================================================================================
+
+[Article] https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Shipping-Traffic-Remains-Subdued-Amid-Fragile-Ceasefire.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Red Sea Shipping Traffic Remains Subdued Amid Fragile Ceasefire
+
+Find us on:
+
+
+
+
+
+
+
+ 
+The European Commission proposes a…
+BP shares rose sharply after…
+Tsvetana Paraskova
+Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. 
+More Info
+Vessel transits through the Red Sea and the Bab el-Mandeb Strait have remained relatively stable at subdued levels since the Iran-backed Houthis said they would limit attacks on commercial vessels.
+Following the Israel-Gaza ceasefire last month, the Iran-aligned Houthis said they would limit attacks in the Red Sea to vessels linked with Israel.
+
+
+
+The Houthis will only target ships that are wholly or partially owned by Israeli individuals or entities, as well as Israel-flagged ships, they said, announcing a partial halt to the attacks in the Red Sea that have disrupted commercial shipping in the past year.
+Despite the partial truce from the Houthis, ship traffic through the Red Sea and the Suez Canal has remained slow as the world’s top shipping firms continue to prefer the longer route via the Cape of Good Hope in Africa to avoid skirmishes in Middle Eastern waters.
+The ceasefire between Hamas, another Iran-backed group, and Israel has been fragile, and this week both sides accused the other of violating the terms of the truce.
+The announcement of Hamas that it would delay the release of the next batch of hostages sparked reactions in Israel and in the U.S. and rekindled concerns that the truce may not hold.
+In this volatile situation in the Middle East, shippers and tanker owners are not in a rush to return to the Red Sea/Suez Canal route despite the partial Houthi ceasefire.
+
+
+
+In the weeks since the January 19 Israel-Hamas ceasefire and the Houthi announcement, the Joint Maritime Information Center (JMIC) hasn’t received has not received any reports of hostile Houthi activity by drones or missiles toward vessels that would be considered a threat, it said in its latest weekly assessment.
+However, JMIC “has seen no significant changes in traffic volume as the transit numbers remain fairly consistent.”
+“Though inactivity could be considered as an improvement in maritime security, JMIC assesses the threat to merchant vessels has not changed and recommends industry remain vigilant,” it said.
+By Tsvetana Paraskova for Oilprice.com
+More Top Reads From Oilprice.com
+Join the discussion | Back to homepage
+Previous Post
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+	            Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. 	          
+More Info
+Drill Baby Drill Is Dead, Oil Executives Say
+Colombian President Cancels Oil Joint Venture With U.S. Company
+Trade Dispute Could Force U.S. to Buy Venezuelan Oil, Canada Says
+Chinese Refiners Switch Away From U.S. Oil After Tariff Exchange
+Warren Buffett Company Shuts Down International Oil Trading Operations
+ADVERTISEMENT
+2025 is a Highly Unpredictable Year For OPEC+
+The End of Cheap Oil? Sanctions Spark Scramble for Supply
+Trump Pressures OPEC to Lower Oil Prices, Aims to End Ukraine War
+Solar Energy Outshines Coal in EU's Energy Mix for the First Time
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Latest-Energy-News/World-News/Russia-Says-Sanctions-Shouldnt-Hinder-Oil-Trade-With-India.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Considering the fact that India…
+U.S. Special Envoy for Ukraine…
+Tsvetana Paraskova
+Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. 
+More Info
+U.S. sanctions against Russia’s oil exports and trade should not hinder Russian energy trade with India, Russia’s first deputy energy minister, Pavel Sorokin, said on Tuesday.
+Indian refiners are scrambling for alternatives after the U.S. sanctions designated hundreds of tankers, as well as oil traders, last month.
+
+
+
+Since the Russian invasion of Ukraine and the bans on Russian oil in the West, India has become a key buyer of Russian crude, alongside China. Russia, for its part, became the single biggest oil supplier to India, the world’s third-largest oil importer.
+Now the sanctions have reduced the availability of non-sanctioned tankers to carry out the trades.
+For India, which imports more than 80% of the crude it consumes daily, the costs are spiking and the cheap Russian barrels are disappearing as Indian refiners steer clear of tankers explicitly sanctioned by the U.S. 
+“We believe energy trade shouldn't be hindered by any politics,” Russia’s Sorokin told the audience at the India Energy Week conference on Tuesday.
+“Our relationship with India is based on economic pragmatism,” Sorokin said, as carried by Reuters.
+It is too early to assess the impact of the U.S. sanctions on the Russia-India oil trade, the Russian official added.
+
+
+
+“More time is needed to assess these things, but we believe that constructive relationships will continue to be successful,” Sorokin was quoted as saying.
+For now, India has received clarification from the U.S. that the Russian oil tankers sanctioned last month are allowed to discharge their crude at Indian ports until February 27.
+While the U.S. clarification could be a relief for India for this month, it is not certain how trade will proceed going forward.
+Indian refiners are already scrambling for supply for arrival after February. 
+India will continue to buy Russian oil if it is sold below the $60 per barrel price cap and delivered on non-sanctioned tankers and without any involvement of sanctioned companies or individuals, Indian officials have said.
+By Tsvetana Paraskova for Oilprice.com
+More Top Reads From Oilprice.com
+Join the discussion | Back to homepage
+Previous Post
+BP Teases Fundamental Reset of Strategy to Boost Returns and Cash
+
+	            Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. 	          
+More Info
+Drill Baby Drill Is Dead, Oil Executives Say
+Colombian President Cancels Oil Joint Venture With U.S. Company
+Trade Dispute Could Force U.S. to Buy Venezuelan Oil, Canada Says
+Chinese Refiners Switch Away From U.S. Oil After Tariff Exchange
+Warren Buffett Company Shuts Down International Oil Trading Operations
+ADVERTISEMENT
+2025 is a Highly Unpredictable Year For OPEC+
+The End of Cheap Oil? Sanctions Spark Scramble for Supply
+Trump Pressures OPEC to Lower Oil Prices, Aims to End Ukraine War
+Solar Energy Outshines Coal in EU's Energy Mix for the First Time
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Latest-Energy-News/World-News/BP-Teases-Fundamental-Reset-of-Strategy-to-Boost-Returns-and-Cash.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+President Trump is reviving the…
+Armenia offers concessions on the…
+Tsvetana Paraskova
+Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. 
+More Info
+BP (NYSE: BP) on Tuesday pledged to fundamentally reset its strategy as it booked its lowest annual and quarterly profits in years and seeks to push up its stock performance and regain investor trust.
+“Building on the actions taken in the past 12 months, we now plan to fundamentally reset our strategy and drive further improvements in performance, all in service of growing cash flow and returns,” BP’s chief executive Murray Auchincloss said in a statement as the UK-based supermajor reported its fourth-quarter and full-year 2024 results today.
+
+
+
+BP’s leadership will communicate its new strategy, which “will be a new direction for bp”, at a Capital Markets Update on February 26, Auchincloss added.
+The executive, who took over as BP’s CEO after the abrupt resignation of Bernard Looney, has already vowed to make the supermajor a simpler and far more focused company and has cut some investments in renewables.
+Analysts and investors expect even more cuts to the low-carbon business and a pledge to boost oil and gas production at the capital markets day later this month.
+Shell and Equinor have already announced significant reductions in their commitment to renewable energy.
+BP’s stock has been underperforming its UK-based peer, Shell, in recent years and Auchincloss and the board have been under increased pressure to seek fundamental changes to the business to reward shareholders more.
+
+
+
+The pressure became more intense earlier this week after reports emerged that activist investor Elliott Management had bought a stake in BP and would be pushing for changes in strategy, or even for board reshuffles.
+Meanwhile, BP on Tuesday reported an underlying replacement cost profit – its proxy for net profit – of $1.17 billion for the fourth quarter, down from $2.27 billion for the previous quarter, and down from $3 billion a year earlier.
+The Q4 2024 earnings missed the analyst consensus estimate of $1.26 billion and were the lowest quarterly profit since the fourth quarter of 2020 when the pandemic was hitting global oil demand. BP attributed the lower profit to weaker realized refining margins – as flagged last month – as well as higher impact from turnaround activity, seasonally lower customer volumes, and fuel margins.
+Today BP announced a $1.75 billion share buyback program related to the fourth quarter results which will be executed prior to reporting the first-quarter results.
+BP will announce its full 2025 buyback and capex guidance at the capital markets day on February 26.
+By Tsvetana Paraskova for Oilprice.com
+More Top Reads From Oilprice.com
+Join the discussion | Back to homepage
+Previous Post
+Indian Firms Discuss Long-Term LNG Supply Deals With the U.S.
+Next Post
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+	            Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. 	          
+More Info
+Drill Baby Drill Is Dead, Oil Executives Say
+Colombian President Cancels Oil Joint Venture With U.S. Company
+Trade Dispute Could Force U.S. to Buy Venezuelan Oil, Canada Says
+Chinese Refiners Switch Away From U.S. Oil After Tariff Exchange
+Warren Buffett Company Shuts Down International Oil Trading Operations
+ADVERTISEMENT
+2025 is a Highly Unpredictable Year For OPEC+
+The End of Cheap Oil? Sanctions Spark Scramble for Supply
+Trump Pressures OPEC to Lower Oil Prices, Aims to End Ukraine War
+Solar Energy Outshines Coal in EU's Energy Mix for the First Time
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Latest-Energy-News/World-News/Indian-Firms-Discuss-Long-Term-LNG-Supply-Deals-With-the-US.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Record demand for gold in…
+The failure to implement the…
+Tsvetana Paraskova
+Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. 
+More Info
+Indian Oil Corporation is in discussions to agree on a long-term supply deal with U.S. Cheniere Energy, in what could be one of many new LNG supply agreements between India and America.
+Indian Oil, the state oil and gas and refining giant, is negotiating a 15-year agreement to source LNG from Cheniere, the top U.S. exporter, a source at Indian Oil told Reuters on Tuesday on the sidelines of an energy conference in India.
+
+
+
+The potential deal could be for up to 2 million metric tons per year beginning in April 2027, according to the Reuters source.
+Indian buyers have intensified contacts and discussions with U.S. LNG exporters to buy more liquefied natural gas from America as part of a drive to avoid U.S. tariffs that President Donald Trump is slapping on a nearly daily basis these days.
+After President Trump ended the Biden pause on permits for new LNG export projects, Indian oil firms are interested in buying more U.S. LNG, Indian Oil Secretary Pankaj Jain said at the conference in India.
+“Indian oil companies are talking to U.S. companies for additional LNG sourcing,” Jain noted.
+Indian Oil, GAIL India, and Bharat Petroleum Corporation Limited (BPCL) are among the companies involved in such discussions, the official added.
+
+
+
+The talks are taking place just as President Trump is preparing to host Indian Prime Minister Narendra Modi for a meeting in Washington later this week.
+India and other buyers in Asia are looking to secure more energy deals with the U.S. to avoid the tariff spree of the new U.S. administration.
+GAIL India, the biggest natural gas distributor in the country, is reviving plans to procure U.S. LNG supply in the long term by either buying a stake in an American export project or signing a long-term offtake agreement, a top company official told Reuters earlier this week.
+By Tsvetana Paraskova for Oilprice.com
+More Top Reads From Oilprice.com
+Join the discussion | Back to homepage
+Previous Post
+Gulf Refiners Shun “Watery” Pemex Crude
+Next Post
+BP Teases Fundamental Reset of Strategy to Boost Returns and Cash
+
+	            Tsvetana is a writer for Oilprice.com with over a decade of experience writing for news outlets such as iNVEZZ and SeeNews. 	          
+More Info
+Drill Baby Drill Is Dead, Oil Executives Say
+Colombian President Cancels Oil Joint Venture With U.S. Company
+Trade Dispute Could Force U.S. to Buy Venezuelan Oil, Canada Says
+Chinese Refiners Switch Away From U.S. Oil After Tariff Exchange
+Warren Buffett Company Shuts Down International Oil Trading Operations
+ADVERTISEMENT
+2025 is a Highly Unpredictable Year For OPEC+
+The End of Cheap Oil? Sanctions Spark Scramble for Supply
+Trump Pressures OPEC to Lower Oil Prices, Aims to End Ukraine War
+Solar Energy Outshines Coal in EU's Energy Mix for the First Time
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Latest-Energy-News/World-News/Gulf-Refiners-Shun-Watery-Pemex-Crude.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+OPEC has a very different…
+If the U.S. enforces strict…
+Irina Slav
+Irina is a writer for Oilprice.com with over a decade of experience writing on the oil and gas industry.
+More Info
+Refiners on the Gulf Coast are shunning crude oil cargos from Mexico that feature an excessively high water content that makes the feedstock unfit for the production of gasoline and diesel fuel, Bloomberg has reported.
+
+
+
+Instead, refiners are buying more Colombian and Canadian crude, or asking for discounts on the Pemex cargos, unnamed industry sources told the publication. According to them, Mexico’s flagship Maya crude has a water content of as much as 6%, which is six times higher than the industry standard.
+
+
+
+This is concerning, Bloomberg said in its report, because Mexico is the second-biggest supplier of crude to Gulf Coast refiners after Canada. Financial woes at Pemex may have a role to play in the situation as the Mexican state energy major is having trouble paying outstanding bills of some $20 billion to suppliers of chemicals and equipment for reducing the water content in its crude oil.
+Poor crude oil quality and price problems arising from President Trump’s decision to impose tariffs on Canadian and Mexican imports are prompting worry in the U.S. refining industry, the report also said, adding that last month, crude flows from Mexico dropped to the lowest in 35 years.
+Tariffs on Canada and Mexico are currently on pause while Washington negotiates better border controls with its neighbors but the threat of them coming into effect is still present. Last week, Wood Mackenzie forecast that if tariffs enter into effect, Mexico would redirect its crude oil exports to Asia and Europe, at a rate of some 600,000 barrels daily.
+Some of the crude, however, could stay at home once the Dos Bocas refinery restarts. Dos Bocas was the flagship energy project of the former Mexican president, Andres Manuel Lopez Obrador, but its progress has been hampered by numerous issues. The latest, per Bloomberg, appears to be the salt content of the crude feedstock, which is so high it could damage the processing equipment at the facility.
+By Irina Slav for Oilprice.com
+More Top Reads From Oilprice.com
+Join the discussion | Back to homepage
+Previous Post
+China Prepares for First International Green Bond Launch
+Next Post
+Indian Firms Discuss Long-Term LNG Supply Deals With the U.S.
+
+	            Irina is a writer for Oilprice.com with over a decade of experience writing on the oil and gas industry.	          
+More Info
+Drill Baby Drill Is Dead, Oil Executives Say
+Colombian President Cancels Oil Joint Venture With U.S. Company
+Trade Dispute Could Force U.S. to Buy Venezuelan Oil, Canada Says
+Chinese Refiners Switch Away From U.S. Oil After Tariff Exchange
+Warren Buffett Company Shuts Down International Oil Trading Operations
+ADVERTISEMENT
+2025 is a Highly Unpredictable Year For OPEC+
+The End of Cheap Oil? Sanctions Spark Scramble for Supply
+Trump Pressures OPEC to Lower Oil Prices, Aims to End Ukraine War
+Solar Energy Outshines Coal in EU's Energy Mix for the First Time
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Latest-Energy-News/World-News/China-Prepares-for-First-International-Green-Bond-Launch.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+U.S. Special Envoy for Ukraine…
+Despite Trump’s strategy on Iran…
+Irina Slav
+Irina is a writer for Oilprice.com with over a decade of experience writing on the oil and gas industry.
+More Info
+China is preparing for the listing of its first overseas sovereign green bond, which will take place in London as the frontrunner in the energy transition race seeks to tap the international investor pool.
+The size and timing of the listing are yet to be divulged but the Singapore portfolio manager told Bloomberg that it should be at least $3 billion.
+
+
+
+“It’s positive that China wants to give a new impetus to the green finance market,” a researcher from transition advocacy the Institute for Energy Economics and Financial Analysis told Bloomberg, which suggested in its report on the news that the listing would test investors’ appetite for investing in “the world’s top polluter.”
+China is the country with the most installed and operating wind and solar power generation capacity, the most EVs on the roads, and the biggest source of hydrocarbon-associated carbon dioxide emissions.
+Green bonds are seen as a key part of the transition—a tool for raising money for transition-related activities when subsidies are not enough. Last year, according to Bloomberg Intelligence, green bond issuance globally reached $708 billion, which was an 8% increase on 2023, with European companies and governments accounting for the biggest single portion of the total. China’s share in global green bond issuance has varied, with the 2022 total higher than both the 2021 national total and the country’s share for 2023 and 2024.
+Things could change this year and in the near future, with Asia as a whole turning into a significant new source of green bonds, according to Bloomberg.
+
+
+
+“China is the last savior of the green transition,” Natixis’ chief economist for Asia Pacific, Alicia Garcia Herrero, told the publication, adding that green debt could become “another layer of the argument, and there’s a lot of demand in Europe.”
+By Irina Slav for Oilprice.com
+More Top Reads From Oilprice.com
+Join the discussion | Back to homepage
+Previous Post
+Australia Props Up Key Transition Industries With Tax Breaks
+Next Post
+Gulf Refiners Shun “Watery” Pemex Crude
+
+	            Irina is a writer for Oilprice.com with over a decade of experience writing on the oil and gas industry.	          
+More Info
+Drill Baby Drill Is Dead, Oil Executives Say
+Colombian President Cancels Oil Joint Venture With U.S. Company
+Trade Dispute Could Force U.S. to Buy Venezuelan Oil, Canada Says
+Chinese Refiners Switch Away From U.S. Oil After Tariff Exchange
+Warren Buffett Company Shuts Down International Oil Trading Operations
+ADVERTISEMENT
+2025 is a Highly Unpredictable Year For OPEC+
+The End of Cheap Oil? Sanctions Spark Scramble for Supply
+Trump Pressures OPEC to Lower Oil Prices, Aims to End Ukraine War
+Solar Energy Outshines Coal in EU's Energy Mix for the First Time
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Latest-Energy-News/World-News/Australia-Props-Up-Key-Transition-Industries-With-Tax-Breaks.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Why Oil Prices Could Go…
+While the EU mulls its…
+Irina Slav
+Irina is a writer for Oilprice.com with over a decade of experience writing on the oil and gas industry.
+More Info
+Australia’s government plans to introduce tax breaks for businesses active in the production of green hydrogen and critical mineral miners and processors in order to stimulate growth in these industries.
+Proposed by the government of Anthony Albanese, the incentive bill passed the Senate earlier this week and should pass the lower chamber of Australia’s parliament today. The incentive law would come into effect from 2027, Bloomberg said in a report on the news.
+
+
+
+The incentives include A$2 ($1.25) per kilogram of green hydrogen produced between 2027 and 2028 and between 2039 and 2040 for up to ten years per project, the country’s resource ministry said in a news release.
+For critical minerals, the tax break would come in at 10% of “relevant processing and refining costs” for the 31 minerals the Australian government has identified as critical, the ministry also said. Those would be in effect for the same period as the green hydrogen tax break.
+A key detail about eligibility for the tax breaks is the fact that a project must be up and running to qualify for them. In other words, companies must secure the upfront investment in green hydrogen production or critical mineral processing before they become eligible for the new incentives.
+“It sends a clear signal that the Australian government is really serious about developing a critical minerals network, and we’re taking up our global responsibility to act on rare earths,” Resource Minister Madeleine King said of the bill.
+
+
+
+Australia has substantial natural resources, including minerals essential for a transition from a hydrocarbon-based economy to one dependent on alternative energy sources such as wind and solar, along with electric transport and hydrogen.
+The Albanese government has been quite active in the transition field, approving a total of 70 wind and solar projects with a view of turning Australia into “a renewable energy superpower”—a rhetoric also enthusiastically used by the Keir Starmer government in the UK.
+By Irina Slav for Oilprice.com
+More Top Reads From Oilprice.com
+Join the discussion | Back to homepage
+Previous Post
+Oil Prices Defy Trump’s Trade Tariffs
+Next Post
+China Prepares for First International Green Bond Launch
+
+	            Irina is a writer for Oilprice.com with over a decade of experience writing on the oil and gas industry.	          
+More Info
+Drill Baby Drill Is Dead, Oil Executives Say
+Colombian President Cancels Oil Joint Venture With U.S. Company
+Trade Dispute Could Force U.S. to Buy Venezuelan Oil, Canada Says
+Chinese Refiners Switch Away From U.S. Oil After Tariff Exchange
+Warren Buffett Company Shuts Down International Oil Trading Operations
+ADVERTISEMENT
+2025 is a Highly Unpredictable Year For OPEC+
+The End of Cheap Oil? Sanctions Spark Scramble for Supply
+Trump Pressures OPEC to Lower Oil Prices, Aims to End Ukraine War
+Solar Energy Outshines Coal in EU's Energy Mix for the First Time
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Energy/Crude-Oil/Will-Modis-Visit-To-Washington-Result-In-More-US-Oil-Gas-for-India.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Global upstream M&A activity is…
+Ukraine's escalating drone attacks target…
+Equinor has announced a reduction…
+Alex Kimani
+Alex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com. 
+More Info
+The Indian government is considering extra energy imports from the United States, days before Prime Minister Narendra Modi's visit to the country and a scheduled meeting with U.S. President Donald Trump. Modi will visit the U.S. on February 12-13 and hold bilateral talks with Trump, India’s ministry of External Affairs had said on Friday. 
+The U.S. is the fifth-largest crude exporter to India, following Russia, Iraq, Saudi Arabia and UAE. However, Indian refiners are open to buying crude from anywhere if the economics are compelling. Whereas Trump has pledged to lower fuel prices, he faces a conundrum considering that U.S. oil production is entirely in the hands of independent producers rather than a national oil company.
+
+
+
+"The state can influence the pricing decisions in Russia and the Middle East, where national oil companies dominate. In the US, it's the private producers, and Trump can't instruct them on how to price their crude," a refinery executive told the Economic Times.
+Nevertheless, experts have predicted that Modi’s upcoming visit to the U.S. will result in a rise in India's imports of oil from the U.S., subject to factors such as the type of crude oil available, freight costs and discounts offered by producers.
+"India will import more oil from the US but (Indian) companies would evaluate options and preferably prioritise Middle East suppliers. The final call would be based on the economics of it including freight charges and discounts provided by the countries," said Prashant Vasisht, vice president and co-head, corporate ratings, ICRA.
+Related: Oil Prices Defy Trump’s Trade Tariffs
+India is a net importer of crude oil with over 85 percent of its domestic demand being met by shipments. However, the country is looking to sharply ramp up production in the coming years. Last year, India’s oil Minister Hardeep Singh Puri called for oil majors to step up oil and gas exploration in the country to help cut India's reliance on imports and make affordable fuel sustainable.
+"E&P offers investment opportunities worth USD 100 billion by 2030," he told a conference at Urja Varta.
+Big Oil Kicks Off India Exploration
+
+
+
+Currently, only 10% of India's 3.36 million sq km wide sedimentary basin is under exploration. However, the country is richly endowed with fossil fuels: back in July, S&P Global Commodity Insights revealed that four largely unexplored sedimentary basins in India could hold up to 22 billion barrels of oil. In effect, lesser-known Category II and III basins, namely Mahanadi, Andaman Sea, Bengal, and Kerala-Konkan contain more oil than the Permian Basin, which has already produced 14 billion barrels of its 34 billion recoverable oil reserves. 
+Rahul Chauhan, an upstream analyst at Commodity Insights, has emphasized the potential of India's unexplored Oil & Gas sector, "ONGC and Oil India hold acreages in the Andaman waters under the Open Acreage Licensing Program (OALP) and have planned a few significant projects. However, India still awaits the entry of an international oil company with deepwater and ultra-deepwater exploration expertise to participate in current and upcoming OALP bidding rounds and explore these frontier regions," he has declared.
+India boasts significant discoveries in the Krishna-Godavari, Barmer, and Assam basins, but exploration in other areas has been slower to develop. Of India's 3.14 million square kilometers of sedimentary basins, 1.3 million sq km are in deep waters. India had its first foray into deepwater exploration in the Bay of Bengal earlier this year in the Krishna-Godavari Basin, courtesy of India's state-run Oil and Natural Gas Corporation (ONGC). ONGC said it was planning to spend over $10 billion developing multiple deepwater projects in its KG-DWN-98/2 block in that basin.
+Meanwhile, state-owned upstream company Oil India Ltd is looking to start exploration activities in Nagaland 
+“We have a total of 30 blocks under the OALP. We have already drilled all wells under the awarded OALP blocks, except in Nagaland. We are pursuing the ministry and they have set up a high power committee involving OIL,ONGC, government officials, to discuss the issue with the Government of Nagaland and resume exploration,” the official said.
+Thankfully, India is likely to have little trouble attracting the oil and gas majors. Indeed, British energy giant BP Plc (NYSE:BP) has been hunting for more opportunities in the country. BP has forged a joint venture with Indian multinational conglomerate  Reliance Industries to operate 1,900 fuel retail stations across India and produces oil and gas from a deepwater block in the Krishna-Godavari basin. The JV has teamed up with ONGC to bid for exploration rights for an offshore block in India.
+National oil companies (NOCs) account for 58% of global reserves and 56% of production. However,  International Oil Companies (IOCs) also play a major role in the energy sector by contributing to the general economic and social development of the host country. Indeed, IOCs are obliged through the Production Sharing Agreement to pay royalty fees to the host country.
+By Alex Kimani for Oilprice.com
+More Top Reads From Oilprice.com
+Back to homepage
+Previous Post
+Is Iraq Now Close To Ending Its Bitter Oil Exports Embargo?
+
+	            Alex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com. 	          
+Oil and Gas Prices Drop Dramatically on Trade War Fears
+Norway Considers Energy Export Curbs, Sending Shockwaves Through Europe
+OPEC to Trump: We Set the Price, Not You
+Why Tesla Sales are Plummeting
+China’s Energy Tariffs Shake Up Global Oil and LNG
+ADVERTISEMENT
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Energy/Crude-Oil/Is-Iraq-Now-Close-To-Ending-Its-Bitter-Oil-Exports-Embargo.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Southeast Asia's unique cultural, climatic,…
+Saudi Arabia's energy minister and…
+bp is set to return…
+Simon Watkins
+Simon Watkins is a former senior FX trader and salesman, financial journalist, and best-selling author. He was Head of Forex Institutional Sales and Trading for…
+More Info
+A superpower tug-of-war is being played out in new oil and gas deals seen in the FGI region of Iraq.
+It is nearly two years since the Federal Government of Iraq (FGI) blocked oil exports from the semi-autonomous Kurdistan Region of Iraq (KRI) through the Iraq-Turkey Pipeline (ITP). The 25 March 2023 decision has seen billions of dollars in revenue lost by both sides, as around 400,000 barrels per day (bpd) of Kurdish crude exports and 75,000 bpd of Kirkuk crude sales have ceased to flow through the KRI into the Turkish port of Ceyhan. Hopes for a resumption of such oil flows have been buoyed by the Iraqi parliament’s approval last week of a budget amendment to guarantee that US$16 per barrel (pb) will be paid by the FGI’s Finance Ministry to the Kurdistan Regional Government (KRG) for oil produced in the northern region. This effectively acts as a subsidy for production costs incurred by international oil companies (IOCs) operating in the KRI and replaces the previous offer of US$7.90 pb that was rejected by the KRG. So, is this optimism that oil exports will resume from Iraq’s Kurdish Region into Turkey well-founded?
+Related: Oil Prices Defy Trump’s Trade Tariffs
+
+
+
+History would strongly suggest that it is not. The origin of the current dispute was not March two years ago when the ban was imposed by the FGI in Baghdad or February 2022 when the Baghdad-based Federal Supreme Court of Iraq deemed such contracts unconstitutional. Instead, it all began on 23 April 2013. On that date, the KRG passed a bill that would allow it to independently export crude oil from fields located in the semi-autonomous region if the FGI failed to pay the KRI its share of oil revenues and exploration costs. A corollary bill to create an oil exploration and production company separate from the FGI in Baghdad and a sovereign wealth fund to take in all energy revenue was approved at the same time by the KRG’s cabinet under then-Prime Minister (and now President) Nechirvan Barzani. At that point, the KRI was producing around 350,000 bpd – out of a total 3.3 million bpd across Iraq -- and planned to increase this to 1 million bpd by the end of 2015. In sum, the KRG intended the 2013 bill to give the KRI complete financial independence from the rest of Iraq as a precursor to total political independence shortly thereafter, as analysed in my latest book on the new global oil market order. The next phase after independent oil sales were assured by the KRI was a planned referendum on independence. The FGI correctly saw this as an existential threat to its future, given that it is what the U.S. and Great Britain had quietly promised the KRG in exchange for its providing the Kurdish Peshmerga army as the key boots on the ground in the fight against Islamic State.
+The FGI’s first response was to sue the KRG for any oil sales done independently of the central government at every opportunity. However, these legal manoeuvres had mixed results for Baghdad, as the 2005 Iraq Constitution was unclear on the issue of which authority had power over the disputed oil flows. According to the KRG, it has authority under Articles 112 and 115 of the Iraq Constitution to man­age oil and gas in the Kurdistan Region extracted from fields that were not in production in 2005 - the year that the Constitution was adopted by referendum. In addition, the KRG maintains that Article 115 states: “All powers not stipulated in the exclusive powers of the federal government belong to the authorities of the regions and governorates that are not organised in a region.” As such, the KRG maintains that, as relevant powers are not otherwise stipulated in the Constitution, it has the authority to sell and receive revenue from its oil and gas exports. Additionally, it argues the Con­stitution provides that, should a dispute arise, priority shall be given to the law of the regions and governorates. However, the FGI maintains that under Article 111 of the Constitution oil and gas are under the ownership of all the people of Iraq in all the regions and governorates. Consequently, Baghdad has argued that any IOC which did not submit contracts made independently with the KRG for revision by Iraq’s Oil Ministry in accordance with the Iraq Constitution have no right to use the Kurdish routes to export the oil they produce.
+Following several mixed legal results for the FGI, Baghdad switched tactics and decided instead to try to conclude a deal with the KRG that would curtail all independent oil sales from the Kurdish Region in exchange for a regular disbursement of funds from the central government budget. More specifically, a landmark deal in November 2014 laid out that the FGI would pay the KRG 17% per month of the central government of Iraq’s budget after sovereign expenses (around US$500 million at that time) in exchange for the KRG organising the export up to 550,000 bpd of oil from the Iraqi Kurdistan oil fields and Kirkuk to the FGI’s State Oil Marketing Organization (SOMO). However, it was not just the lack of clarity of the 2005 Iraq Constitution that undermined the chances of success for this deal. More crucially it was the completely opposite endgames that each side had in mind for the financial power that would result from dispersal of those oil export funds. In essence, the KRG still wanted to use the money to establish financial independence from Baghdad before doing the same politically and establishing the independent state of Kurdistan. At the other end of the scale, the FGI wanted to centralise all oil flows through its own SOMO vehicle, then incrementally reduce the budget disbursements to the KRG, and then simply roll the Kurdish Region into the rest of Iraq to function just as any other non-independent region of the country, as also examined in detail in my latest book on the new global oil market order. This ultimate objective was even more clearly laid out on 3 August last year when Iraqi Prime Minister, Mohammed Al-Sudani stated that the new unified oil law -- run in every way that matters out of Baghdad -- will govern all oil and gas production and investments in both the FGI and KRI areas and will constitute “a strong factor for Iraq’s unity”.
+Given its massive oil and gas reserves, critical geographical positioning in the heart of the Middle East, and crucial role in the Shia Crescent of power stretching across the region, the world’s big powers also have their own agendas at play in its destiny. China and Russia have long been core sponsors of the FGI, along with neighbouring Iran, and have been powerful forces behind the idea of subsuming the KRI into the wider Iraq. As a senior political source in Moscow exclusively told OilPrice.com many months ago: “Iraq will be one unified country and by keeping the West out of energy deals there, the end of Western hegemony in the Middle East will become the decisive chapter in the West’s final demise.” On the other hand, according to a senior source who works closely with the European Union’s (E.U.) energy security complex, the KRG has made it clear that it wishes over the long term to terminate all links with Chinese, Russian and Iranian companies connected to the Islamic Revolutionary Guards Corps over the long term. The U.S. and Israel also have a further strategic interest in utilising the Kurdistan Region as a base for ongoing monitoring operations against Iran, according to the E.U. source.
+
+
+
+This superpower tug-of-war is also being played out in new oil and gas deals seen in the FGI region of Iraq. France’s TotalEnergies is still working on its landmark US$27 billion four-pronged deal there, and Great Britain’s BP has agreed to develop the huge Kirkuk oil fields. This not only dovetails into the British firm’s 50%-stake in Iraq’s giant Rumaila field but also sinks into TotalEnergies’ plans across the country. On the other hand, more than a third of Iraq’s proven oil and gas reserves and over two-thirds of its current production are managed by Chinese companies, according to industry figures. Indeed, Chinese companies combined have direct shares in about 24 billion barrels of reserves and are responsible for the production of around 3 million bpd. It may well be that Baghdad is still playing its long-running game of playing both sides against each other for maximum gain, in which case keeping the stalemate going between itself and the KRG remains in its best interests. Iraqi Oil Minister Hayan Abdul Ghani said last week that talks are underway with the Turkish government to prepare the Iraq-Turkey Pipeline for a resumption of operations. However, he also said that his Ministry has made it clear to the KRG that to benefit from new budget disbursements it must transfer its oil to SOMO at a volume of never less than 300,000 bpd.
+By Simon Watkins for Oilprice.com
+More Top Reads From Oilprice.com
+Back to homepage
+Previous Post
+New Sanctions Aim to Curtail Iran's Oil Revenue Flow to China
+Next Post
+Will Modi’s Visit To Washington Result In More U.S. Oil & Gas for India?
+
+	            Simon Watkins is a former senior FX trader and salesman, financial journalist, and best-selling author. He was Head of Forex Institutional Sales and Trading for…	          
+Oil and Gas Prices Drop Dramatically on Trade War Fears
+Norway Considers Energy Export Curbs, Sending Shockwaves Through Europe
+OPEC to Trump: We Set the Price, Not You
+Why Tesla Sales are Plummeting
+China’s Energy Tariffs Shake Up Global Oil and LNG
+ADVERTISEMENT
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Energy/Energy-General/EU-Braces-for-Impact-as-Trump-Targets-Trade.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Red Sea Shipping Traffic Remains Subdued Amid Fragile Ceasefire
+
+Find us on:
+
+
+
+
+
+
+
+ 
+BP shares rose sharply after…
+urope’s natural gas TTF benchmark…
+New US tariffs on imports…
+Irina Slav
+Irina is a writer for Oilprice.com with over a decade of experience writing on the oil and gas industry.
+More Info
+European companies are trying to prepare for the fallout from President Donald Trump’s tariffs-first approach to trade policy as he finally finds the time to turn his attention to the EU after two quick wins with Canada and Mexico.
+Trump has threatened to slap tariffs on all imports from the European Union as a way of fixing what he deems an unfair trade surplus in the EU’s favor. According to European business executives, the impact of such a move could be quite serious, the Financial Times reported last week as investment banks start revising down their economic growth forecasts for the EU.
+
+
+
+Per the FT, Germany’s power utility RWE, for instance, worried about its investment plans for the United States, with chief executive Markus Krebber saying it might need to tweak new wind and solar projects for the U.S. because some of the components it planned to use for these projects were not manufactured locally and would need to be imported from Europe.
+Other companies, including luxury goods maker LVMH and supermajor Shell were considering an expansion in the United States in response to the tariffs, likely with a view to hedging against the worst of the tariff fallout. “The big question is what happens if those tariffs come in between the US and Europe,” the chief executive of Volvo Cars told the Financial Times, elaborating that anything higher than 10% would force the carmakers to boost its production in the U.S.
+Related: Why Tesla Sales are Plummeting
+None of this sounds like a bad thing for Trump and his effort to encourage more made-in-America action. It does sound like a pretty bad thing for the European Union, at least according to banks forecasting economic growth. Goldman Sachs said the eurozone’s GDP growth could suffer setbacks, resulting in feeble growth of 0.7% this year. This compares with the 1.1% growth forecast by the European Central Bank in December.
+It could end up being even worse if the EU retaliates in full, according to the chief European economist of the bank. In such a scenario, which is not at all unlikely, Sven Jari Stehn foresees a full percentage point wiped out of the eurozone’s economic growth, potentially plunging the eurozone into recession.
+Meanwhile, the EU is preparing for retaliation—even as it makes early concessions to Trump. The Financial Times again reported that the EU was prepared to offer Washington a lower import tariff for American cars, from 10% currently to a figure closer to the 2.5% that the United States charges on car imports. That would be in addition to the EU agreeing to buy more American liquefied natural gas and military equipment.
+
+
+
+Indeed, the EU is already buying all the U.S. LNG it can find and then some. Last month almost 90% of all U.S. exports of liquefied natural gas ended up in Europe, Reuters reported earlier this month, citing data from LSEG. The U.S. total for the month came in at 8.46 million tons, of which 7.25 million tons were shipped to Europe amid typical winter weather and plummeting storage levels due to a lack of pipeline supplies from Russia.
+LNG was always going to be a focal point of any trade negotiations and an easy one for the Europeans to “fix”—they already have precious few alternative options, given political animosity towards Russian gas and calls for a ban. However, the EU would need to change its tack if it wants to secure future supply—with long-term commitments.
+This is what the chief executive of TotalEnergies said last week in comments on EU-U.S. trade and the outlook for the bloc’s energy security. Citing the unpredictability of the global trade environment, Patrick Pouyanne urged the EU to secure supply guarantees from the U.S., pointing out, “But what happens if all of a sudden the U.S. decides they must export less than they've done historically? ... We must not pass from a so-called over-dependence on Russia to an over-dependence on another country, even if it's an ally,” as quoted by Reuters.
+A long-term import commitment for U.S. LNG would please Trump, no doubt, but it would be problematic for EU leaders to admit they need such a commitment for the energy security of the bloc—because of all the talk about gas being easy to give up in favor of wind and solar. The last couple of months have proven empirically this is not the case, but it would still be difficult for the political class of the EU to acknowledge that as it prepares to hit Big Tech with trade restrictions in response to Trump’s tariff plans.
+While the EU mulls its response to the tariff threat, Trump just went and slapped 25% tariffs on all steel and aluminum imports, including from Mexico and Canada—and from the European Union. The EU would need to think faster on its feet and maybe forego retaliation for the time being—Trump has proven he can escalate quickly and sharply.
+By Irina Slav for Oilprice.com
+More Top Reads From Oilprice.com
+Back to homepage
+Previous Post
+Elliott Investment Management Targets BP for Strategic Overhaul
+
+	            Irina is a writer for Oilprice.com with over a decade of experience writing on the oil and gas industry.	          
+Oil and Gas Prices Drop Dramatically on Trade War Fears
+Norway Considers Energy Export Curbs, Sending Shockwaves Through Europe
+OPEC to Trump: We Set the Price, Not You
+Why Tesla Sales are Plummeting
+China’s Energy Tariffs Shake Up Global Oil and LNG
+ADVERTISEMENT
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Energy/Crude-Oil/New-Sanctions-Aim-to-Curtail-Irans-Oil-Revenue-Flow-to-China.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Equinor has announced a reduction…
+US refiners in the Midwest…
+Hopes for a resumption oil…
+RFE/RL staff
+RFE/RL journalists report the news in 21 countries where a free press is banned by the government or not fully established. We provide what many…
+More Info
+The United States has imposed sanctions on a network of people and firms accused of facilitating the sale of millions of barrels of Iranian oil to China as U.S. President Donald Trump’s administration seeks to bring Iran’s crude exports to zero.
+The new tranche of sanctions is an opening shot against Beijing and Tehran, designed to put China on notice without disrupting back-channel discussions to explore the potential for a deal with Iran that restricts its nuclear program.
+
+
+
+Analysts say these sanctions -- which targeted individuals and vessels linked to the so-called shadow fleet of ships that transport embargoed Iranian oil -- could be effective but will not drive Iran’s oil exports down to zero. Tougher measures would be needed to do that -- going after Chinese institutions, such as banks that process oil transactions, for example-- but that could risk escalating tensions between the world’s top two economies.
+“This is a toe in the water, but not because Trump necessarily wants to tread carefully,” said Tom Keatinge, director of the Center for Finance and Security at the Royal United Services Institute (RUSI) in London. “This is a way to send a message and put everyone involved in moving Iranian oil on notice.”Why Is Trump Hitting Iran?
+Iran’s economy is heavily reliant on oil revenues, which the U.S. State Department on February 6 said are used to fund “terrorists and proxy groups,” referring to Iran’s network of regional armed groups that oppose Israel and the U.S.
+The new sanctions target over a dozen people and companies in China, India, and the United Arab Emirates, including Iranian and Indian citizens and crew management firms as well as a collection of tankers.
+“These sanctions, and what is sure to follow, will almost certainly have an impact,” said Nader Itayim, a Middle East energy expert at the U.K.-based Argus Media. “The question really is how big that impact might be. And that will ultimately depend on how seriously the Trump administration chooses to go after the Iranian oil trade.”
+The 2015 nuclear deal lifted U.S. sanctions, allowing Iran to sell oil. Trump withdrew from the deal in 2018, reimposing sanctions that cut exports to around 400,000 barrels per day.
+Iran later boosted sales through sanctions evasion, rising Chinese demand, and looser U.S. enforcement under former President Joe Biden.
+The new sanctions are part of the Trump administration’s return to the "maximum pressure" campaign that defined the Republican president’s Iran policy in his first term. Trump says Iran is "too close" to developing a nuclear bomb, while Tehran has long claimed its atomic program is peaceful.
+“One of his objectives now is to bankrupt Iran,” Keatinge said. “Since [Trump] was last president, the sanctions community at large -- public and private -- have learned a lot about how to target a country's oil revenue and go after the broader infrastructure, largely from the experience with Russia's own shadow fleet.”
+As part of its effort to evade Western sanctions on its oil exports and help fund its war against Ukraine, Russia has employed a shadow fleet of hundreds of aging tankers largely registered in non-Western jurisdictions to export the majority of its oil to market.
+How Does The 'Shadow Fleet' Operate?
+
+
+
+Iran’s own “shadow fleet” of tankers has been crucial to its ability to evade sanctions and covertly transport oil to China and other destinations.
+This strategy includes ship-to-ship transfers, intermediaries, concealed financial transactions, and rebranding the oil to disguise its Iranian origin, making it appear to come from another country.
+These methods have allowed Iran to keep moving oil and generating revenue despite sanctions.
+According to United Against Nuclear Iran, a nonprofit group that campaigns against threats it says are posed by Tehran, 587 million barrels of oil were moved by Iran in 2024 and 91 percent of those exports went to China.
+China has long been the largest buyer of Iranian oil, but since 2022 it has stopped officially purchasing it to avoid U.S. sanctions, according to data from commodities research firm Kpler.
+Despite the official stop in purchases, billions of dollars' worth of sanctioned Iranian oil have still found their way to China through the shadow fleet network used by Iran.
+What's Trump’s Next Move?U.S. officials have sought to prevent Iran from shipping the oil by pressing China and other countries not to participate, and imposing sanctions on vessels that it believed could help transport the oil.
+The latest round of sanctions targeted vessels and shipping companies said to be involved in moving Iranian oil and Keatinge, the expert from RUSI, says this reflects the evolving playbook developed in recent years as the United States and its allies have targeted ships moving Russian oil.
+He says these measures could be expanded beyond just targeting ships that move the oil to also sanction other aspects of the shadow fleet infrastructure, such as the companies that insure the vessels, the agencies that recruit the crews, the ports that receive the ships, and a broader diplomatic campaign to pressure the countries that register them.
+Argus Media’s Itayim believes such moves are likely to scare off “the more risk-averse Chinese buyers” but would have a limited impact in curbing the flow of Iranian oil. To drive Iranian oil exports down further, he says, would require more pressure on Chinese ports and on buyers and intermediaries, including even banks in the country.
+Doing so could have ripple effects on Washington’s ties with Beijing and escalate tensions, which were recently inflamed with a new round of tit-for-tat tariffs on February 4.
+Keatinge says that curbing Iranian oil could be part of a broader conversation between Trump and Chinese President Xi Jinping and that the recent sanctions provide a way to ramp up pressure on Tehran without fueling additional tensions with Beijing.
+“China is the big problem to solve if you want to squeeze Iranian oil, but does Trump want a sanctions war with Xi?” he said.
+By RFE/RL 
+More Top Reads From Oilprice.com
+Back to homepage
+Previous Post
+UAE and Saudi Arabia Lead Middle East Energy Transition
+Next Post
+Is Iraq Now Close To Ending Its Bitter Oil Exports Embargo?
+
+	            RFE/RL journalists report the news in 21 countries where a free press is banned by the government or not fully established. We provide what many…	          
+Oil and Gas Prices Drop Dramatically on Trade War Fears
+Norway Considers Energy Export Curbs, Sending Shockwaves Through Europe
+OPEC to Trump: We Set the Price, Not You
+Why Tesla Sales are Plummeting
+China’s Energy Tariffs Shake Up Global Oil and LNG
+ADVERTISEMENT
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Defy-Trumps-Trade-Tariffs.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Uruguay, a nation praised for…
+Hydropower, the leading source of…
+Alex Kimani
+Alex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com. 
+More Info
+Oil prices climbed on Monday despite the real threat of a global trade war erupting after U.S. President Donald Trump announced wide-ranging tariffs on U.S. imports,  this time targeting steel and aluminium. On Monday, Trump announced he will impose a 25% import tax on all steel and aluminium entering the U.S., with Canada likely to be hardest hit. Trump also talked about reciprocal tariffs on all countries that tax imports from the U.S., although he did not give the specifics, "If they charge us, we charge them," Trump said. Brent crude for April delivery was up 1.8% to trade at $75.98 per barrel at 15.40 p.m ET while WTI crude for March delivery gained 2.0% to trade at  72.41.
+
+
+
+It appears that Trump’s end-game is to keep the markets on their toes, but that strategy might not be working, this time around.
+
+
+
+"It's tariff uncertainty which is the name of the game. This affects risk appetite in general and has spillover effects into oil," said Harry Tchilinguiran at Onyx Capital. "After last week's declines, some people may be buying into the dip."
+Trump’s latest tariff threats come at a time when the trade balance between the U.S. and its biggest trading partner has been tilting against it.  Canada’s energy exports to the United States surged in the latter part of 2024, helping the country record its biggest surplus with its main trading partner since 2022. Crude oil exports jumped amid a weakening Canadian dollar as well as traders stockpiling inventories ahead of Trump’s tariffs.The trade surplus widened to C$11.3 billion in December, up from C$8.2 billion previously while crude exports to the U.S. jumped 11.8% in the final quarter. Nearly 76% of all exports by Canada went to the U.S. compared to 62% of all imports coming from the U.S. Last year, the value of Canada’s imports and exports with the U.S. surpassed the C$1 trillion mark for a third straight year.
+By Alex Kimani for Oilprice.com
+More Top Reads From Oilprice.com
+Join the discussion | Back to homepage
+Previous Post
+Russia’s Crude Output Dips Below OPEC+ Target
+Next Post
+Australia Props Up Key Transition Industries With Tax Breaks
+
+	            Alex Kimani is a veteran finance writer, investor, engineer and researcher for Safehaven.com. 	          
+More Info
+Drill Baby Drill Is Dead, Oil Executives Say
+Colombian President Cancels Oil Joint Venture With U.S. Company
+Trade Dispute Could Force U.S. to Buy Venezuelan Oil, Canada Says
+Chinese Refiners Switch Away From U.S. Oil After Tariff Exchange
+Warren Buffett Company Shuts Down International Oil Trading Operations
+ADVERTISEMENT
+2025 is a Highly Unpredictable Year For OPEC+
+The End of Cheap Oil? Sanctions Spark Scramble for Supply
+Trump Pressures OPEC to Lower Oil Prices, Aims to End Ukraine War
+Solar Energy Outshines Coal in EU's Energy Mix for the First Time
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Finance/the-Economy/Musk-Treasury-Access-Raises-Global-Financial-Crisis-Concerns.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Red Sea Shipping Traffic Remains Subdued Amid Fragile Ceasefire
+
+Find us on:
+
+
+
+
+
+
+
+ 
+A new report warns that…
+Bitcoin reaches a record high…
+Trade data analysis reveals a…
+Kurt Cobb
+Kurt Cobb is a freelance writer and communications consultant who writes frequently about energy and environment. His work has also appeared in The Christian Science…
+More Info
+Whether or not you share the zeal for cuts in government spending embraced by President Donald Trump and his billionaire sidekick Elon Musk, you should know that giving Musk and his callow team of computer coders access to payment systems at the U. S. Department of Treasury risks a global financial meltdown. It doesn't make such an event certain, but it lowers the odds considerably.
+Here's why:
+
+
+
+First, the U.S. Department of Treasury processes some $6 trillion in payments each year. If that system were to come to a halt for even a relatively short period of time, the consequences would be devastating, not only for the U.S. economy but for the global economy as well.
+It is also important to grasp that the Treasury Department stands behind the entire U.S. banking system. It is the lender of last resort in a banking crisis to the Federal Deposit Insurance Corporation which insures bank deposits nationwide, and because the Treasury Department has the full faith and credit of the United States government behind it, the department is a potent force for forestalling panic and crisis in the banking system.
+In addition, the Treasury Department stands behind all U. S. government debt instruments, "Treasuries" for short, which today amount to $36 trillion outstanding. Treasuries are considered the most trustworthy, reliable and liquid government debt in the world and are, not surprisingly, found in the portfolios of pensions funds, banks, insurance companies, university endowments, individual investors and central banks around the world (to facilitate trade and monetary policy). Treasuries are frequently used as collateral for loans to banks, other financial institutions, and investment funds as part of the trillions of dollars in trading each day around the world.
+When people want to hold an investment that they know will always pay interest on time in full and be redeemed at its full value at maturity AND that others will want to buy when they are ready to sell, they almost always turn to U. S. Treasuries. Much of the world's financial system is premised on the belief that U.S. Treasuries will continue fit this description. Were this belief to be shattered, the consequences for the world economy would be grave.
+So how exactly does giving access to the U. S. Treasury payments system to the members of Musk's so-called Department of Government Efficiency risk financial stability? There are three ways:
+
+
+
+If you are an investor, you should be monitoring the situation very closely. If you are citizen or a company and you've ever had any financial dealings with the U. S. government, you should be very concerned. A man who is a private citizen and the richest man in the world and his merry band of coders may have your information. How they would use or disseminate that information is anyone's guess. I'm wondering when some enterprising class-action attorney is going to wake up to the fact that the biggest class-action privacy case in the history of the United States is waiting for someone to come along and file it. Maybe I won't have to wait that long.
+UPDATED Feb. 9, 5:50 p.m.: It didn't take long for someone to figure out that there is a class-action suit waiting to be filed. See here.
+By Kurt Cobb via Resource Insights
+More Top Reads From Oilprice.com
+Back to homepage
+Previous Post
+Are Georgia and Kyrgyzstan Helping Russia Evade Car Sanctions?
+
+	            Kurt Cobb is a freelance writer and communications consultant who writes frequently about energy and environment. His work has also appeared in The Christian Science…	          
+Oil and Gas Prices Drop Dramatically on Trade War Fears
+Norway Considers Energy Export Curbs, Sending Shockwaves Through Europe
+OPEC to Trump: We Set the Price, Not You
+Why Tesla Sales are Plummeting
+China’s Energy Tariffs Shake Up Global Oil and LNG
+ADVERTISEMENT
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Energy/Crude-Oil/UAE-and-Saudi-Arabia-Lead-Middle-East-Energy-Transition.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Russia Says Sanctions Shouldn’t Hinder Oil Trade With India
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Crude oil inventories and gasoline…
+Saudi Arabia's energy minister and…
+Southeast Asia's unique cultural, climatic,…
+Rystad Energy 
+Rystad Energy is an independent energy consulting services and business intelligence provider offering global databases, strategic advisory and research products for energy companies and suppliers,…
+More Info
+The Middle East and North Africa (MENA) region has long been at the center of the global energy universe, with national oil companies (NOCs) and their predecessors charged with developing vast oil and gas resources for nearly a century. While the region will undoubtedly remain a dominant player in traditional oil and gas spheres for the foreseeable future, several key countries and NOCs are strategically positioning themselves to become key hubs and global leaders in new emerging energy markets. The result is an increasing divergence between the strategies of NOCs in the more forward-leaning countries, led by the UAE and Saudi Arabia, and, on a more regional level, Oman, and the more traditional petrostates, such as Kuwait and Qatar, where NOCs are primary focused on delivering operational results and revenues to the state. 
+Diverging approach: UAE, Saudi Arabia and Oman
+
+
+
+The UAE and Saudi Arabia have emerged as strategic players in the global energy transition, with both ADNOC and Saudi Aramco recognizing that the future of energy will require more than just oil and gas.
+Ed Tockman, Senior Vice President & Head of MENA
+The UAE has firmly established itself as a global leader in the energy transition by hosting COP28 in 2023 and forging the UAE Consensus, which marked a historic commitment to “transitioning away from fossil fuels in the energy systems in a just, orderly and equitable manner” – the first such pledge at any COP summit. ADNOC, along with Masdar – the UAE’s national champion in renewable energy – has made significant domestic and international investments in solar, battery storage and hydrogen, especially in developing markets. ADNOC recently launched XRG, an $80 billion investment vehicle that is targeting gas, petrochemical and low-carbon projects worldwide. Such moves further strengthen the UAE’s position at the forefront of the rapidly evolving new energy landscape.
+Saudi Arabia is making big strides in diversifying its economy beyond oil as the country nears the 10-year mark in its landmark ‘Vision 2030’ plan. With substantial investments in renewable energy, the kingdom aims to generate 50% of its domestic power from renewables by 2030 while positioning itself as a global leader in hydrogen, carbon capture and storage (CCS), and other new energy segments. At the same time, Aramco will maintain its dominant position in the traditional oil and gas sector, ensuring robust revenues to fuel Saudi Arabia’s ambitious and far-reaching modernization and economic diversification efforts.
+Oman, with its relatively smaller economy and more limited oil and gas reserves, has adopted a more traditional bid-round approach to attract partners and investors in the new energy space. The country seeks to develop its vast solar and onshore wind potential to diversify its domestic energy mix and help establish itself as a green hydrogen export hub from 2030. Oman’s NOCs, led by Energy Development Oman and, to a lesser extent, OQ, are tasked with both maximizing existing oil and gas resources and driving the country’s energy transition efforts. This will help to position Oman as a key regional player in the emerging green hydrogen export market and evolving regional landscape. 
+More traditional approach: Kuwait, Qatar and others
+
+
+
+In contrast, countries such as Kuwait, Qatar and others, especially in North Africa, remain largely focused on developing traditional oil and gas resources to maximize state revenues for the coming decades. Any efforts on energy transition and net-zero commitments are largely centered on optimizing operations to maintain cost and emissions advantages in the long term.
+Qatar, for example, views natural gas as a crucial bridge to lower-carbon energy, particularly as a cleaner alternative to coal and oil. QatarEnergy, which is already a leading global LNG exporter, has recently committed to further increase its LNG-export capacity and expand its international investments in both the upstream and liquefaction segments. Such strategic moves will help Qatar to remain a major player in the global energy markets for the foreseeable future.
+Striking a balance: MENA and the energy transition
+The MENA region is striking a careful balance between maintaining its dominant oil and gas position and embracing the energy transition amid an evolving global energy landscape. Traditional oil and gas revenues will inevitably come under increasing pressure as a result of an accelerated energy transition, driven by climate targets, advancing renewable technologies and market demands.
+However, the region’s unique endowment of both traditional oil and gas resources and renewable energy potential – particularly solar and wind – coupled with its financial strength, human talent and strategic location, positions its NOCs at the forefront to lead in traditional oil and gas as well as new energy markets. The energy transition will take time, but increasing investments in renewables, hydrogen, CCS and other new-energy sectors will ensure that many of the countries and NOCs in the MENA region will remain key players in the global energy landscape for decades to come.
+By Ed Tockman, Senior Vice President & Head of MENA at Rystad Energy
+More Top Reads From Oilprice.com
+Back to homepage
+Previous Post
+UK's Largest Undeveloped Oilfield Faces Uncertain Future
+Next Post
+New Sanctions Aim to Curtail Iran's Oil Revenue Flow to China
+
+	            Rystad Energy is an independent energy consulting services and business intelligence provider offering global databases, strategic advisory and research products for energy companies and suppliers,…	          
+Oil and Gas Prices Drop Dramatically on Trade War Fears
+Norway Considers Energy Export Curbs, Sending Shockwaves Through Europe
+OPEC to Trump: We Set the Price, Not You
+Why Tesla Sales are Plummeting
+China’s Energy Tariffs Shake Up Global Oil and LNG
+ADVERTISEMENT
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+[Article] https://oilprice.com/Energy/Energy-General/Elliott-Investment-Management-Targets-BP-for-Strategic-Overhaul.html
+
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Click Here for 150+ Global Oil Prices 
+Red Sea Shipping Traffic Remains Subdued Amid Fragile Ceasefire
+
+Find us on:
+
+
+
+
+
+
+
+ 
+Fears of a major trade…
+New US tariffs on imports…
+Uruguay, a nation praised for…
+City A.M 
+CityAM.com is the online presence of City A.M., London's first free daily business newspaper. Both platforms cover financial and business news as well as sport and…
+More Info
+BP shares jumped to the top of the FTSE 100 this morning as a rumour emerged that an activist hedge fund had taken a position in the stock.
+Shares in the blue-chip oil giant jumped seven per cent in early deals on the news activist hedge fund Elliott Investment Management had built a position in the company.
+
+
+
+The news of the stake emerged over the weekend, but as of yet, the size of the position has not been confirmed.
+BP is one of the largest companies listed on the London Stock Exchange, and it’s one of the largest constituents of the FTSE 100 – the UK’s leading blue-chip stock index.
+Shares in the oil giant have underperformed over the past year as the company has struggled for direction amid management changes. BP shares have fallen around 10 per cent over the past year, compared to a six per cent gain for its London-listed peer, Shell.
+While the size of Elliott’s stake has not been disclosed, the news of its position has fueled talk of an overhaul of BP, its strategy and the company’s board of directors.
+Elliott Investment Management is one of the world’s most aggressive activist hedge funds. Founded by the billionaire Paul Singer, it has a long track record of successfully shaking up the companies it which it invests.
+The firm recently changed its investment strategy to focus on a few smaller, more aggressive bets rather than a wide range of positions.
+Last year, the hedge fund took a significant $3bn (£2.4bn) position in Suncor Energy, the Canadian integrated energy company which specializes in extracting hydrocarbons from oil sands. The position, equivalent to a near five per cent holding, helped the hedge fund ramp up pressure on Suncor Energy’s board as part of its campaign to unlock billions in value for investors.
+The market seems to be betting Elliott will take the same approach with BP.
+Murray Auchincloss, BP’s chief executive since September 2023, is expected to update the market tomorrow on his plans to help revitalise the energy giant’s growth. Part of the plans could include further divestments from green energy, something the group has already been working towards.
+
+
+
+In December, BP said it would spin out its offshore wind business into a $5.8bn (£4.7bn) joint venture with Jera, Japan’s largest power utility, in what was the group’s latest sign of a retreat from renewable energy.
+The new boss has also set out plans to shave $2bn (£1.6bn) from BP’s cost base by the end of the decade and has frozen external hiring.
+Kathleen Brooks, research director at XTB, commented: “This is not the first time that an activist investor has targeted BP, Bluebell Capital Partners started to get vocal about BPs under performance last year, and it also called for heads to roll, including the chairman.
+“Like Bluebell, Elliott also wants BP to ditch its plans to reduce its fossil fuel reduction plans. The difference this time is that Elliott is better known than Bluebell and has a track record of forcing through the corporate changes that it wants.
+“We don’t know how big its stake is, or exactly what its plans are for BP: will it try to break the company up, or could it try to force a sale of the company?
+“As mentioned, we do not think that Elliott has enough of a stake in BP yet to force a sale of the company, however, if there was a firm offer on the table for BP in the coming weeks, then the stock price could take off, in our view.”
+Allen Good, director of equity research at Morningstar, said: “BP’s long-term underperfromance has previously raised the question of why no activist was involved.”
+Size was likely an obstacle. It seems now that Eilliot is taking a chance on spuring change as it has with other oil and gas companies.”
+There are a variety of options it could pursue including a sale, a US relocation but the most likely would be some sort of strategic change that refocused on oil and minimized low carbon as Shell has done.”
+By City AM
+More Top Reads From Oilprice.com
+Back to homepage
+Previous Post
+Why Tesla Sales are Plummeting
+Next Post
+EU Braces for Impact as Trump Targets Trade
+
+	            CityAM.com is the online presence of City A.M., London's first free daily business newspaper. Both platforms cover financial and business news as well as sport and…	          
+Oil and Gas Prices Drop Dramatically on Trade War Fears
+Norway Considers Energy Export Curbs, Sending Shockwaves Through Europe
+OPEC to Trump: We Set the Price, Not You
+Why Tesla Sales are Plummeting
+China’s Energy Tariffs Shake Up Global Oil and LNG
+ADVERTISEMENT
+
+
+
+
+
+
+
+© OilPrice.com
+The materials provided on this Web site are for informational and educational purposes only and are not intended to provide tax, legal, or investment advice.
+Nothing contained on the Web site shall be considered a recommendation, solicitation, or offer to buy or sell a security to any person in any jurisdiction.
+Merchant of Record: A Media Solutions trading as Oilprice.com
+
+================================================================================
+
+
+📊 Sentiment Analysis for Tesla:
+   - Mentions: 13
+   - Sentiment Score: 0.07
+   - Market Indicator: Neutral ➖
+   - Suggested Action: STANDBY ⏸️
