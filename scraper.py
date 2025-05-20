@@ -93,20 +93,20 @@ def analyze_sentiment(text):
         sentiment_score = TextBlob(text).sentiment.polarity
         
         if sentiment_score > 0.3:
-            indicator = "Strong Bullish 📈"
-            decision = "BUY ✅"
+            indicator = "Strong Bullish"
+            decision = "BUY"
         elif 0.1 <= sentiment_score <= 0.3:
-            indicator = "Moderate Bullish 📊"
+            indicator = "Moderate Bullish"
             decision = "CONSIDER BUYING"
         elif -0.1 <= sentiment_score <= 0.1:
-            indicator = "Neutral ➖"
-            decision = "STANDBY ⏸️"
+            indicator = "Neutral"
+            decision = "STANDBY"
         elif -0.3 <= sentiment_score < -0.1:
-            indicator = "Moderate Bearish ⚠️"
+            indicator = "Moderate Bearish"
             decision = "CONSIDER SELLING"
         else:
-            indicator = "Strong Bearish 📉"
-            decision = "SELL ❌"
+            indicator = "Strong Bearish"
+            decision = "SELL"
         
         sentiment_results[stock] = {
             "mentions": mentions,
